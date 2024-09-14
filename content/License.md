@@ -1,0 +1,1 @@
+Except where otherwise noted, the contents of this website © 2024 by Mike Knee are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
