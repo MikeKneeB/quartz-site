@@ -1,0 +1,26 @@
+services:
+  quartz-builder:
+    build:
+      context: .
+    volumes:
+      # The  C O N T E N T
+      - /home/mikek/ttrpg:/work/quartz/content:ro
+      # Custom configuration, and static files
+      - ./quartz.config.ts:/work/quartz/quartz.config.ts:ro
+      - ./quartz.layout.ts:/work/quartz/quartz.layout.ts:ro
+      - ./extra/static:/work/quartz/quartz/static:ro
+
+      # Extra components
+      - ./extra/components:/work/quartz/quartz/extra:ro
+
+      # Output directory
+      - ./public:/work/quartz/public
+
+  quartz-live:
+    build:
+      context: .
+    command: ["npx", "quartz", "build", "--serve"]
+    ports:
+      - 8080:8080
+    volumes_from:
+      - quartz-builder
