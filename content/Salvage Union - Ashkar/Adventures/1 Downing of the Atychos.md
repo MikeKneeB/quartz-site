@@ -1,4 +1,4 @@
-For the first mission, I ran the Downing of the Atychos. This is the suggested/example/starter adventure from the core rulebook. I made no tangible changes to this adventure, with the note that the Atychos was an [[Corporations#Adamant Arch Planetary|AAP]] flyer.
+For the first mission, I ran the Downing of the Atychos. This is the suggested/example/starter adventure from the core rulebook. I made no tangible changes to this adventure, with the note that the Atychos was an [[Adamant Arch Planetary|AAP]] flyer.
 
 I tried **so** hard to get everyone to fit a comms module to their mechs, but two players were unconvinced. I don't need a Comms Module, I need a Weapon Link! This turns out to not be true, so just imagine this play report is punctuated with me having to gently remind the players that their characters can't talk to each other in their mechs. I feel a little bad being this fussy over the rules, it's not something I'd usually do, but if you make an active choice not to take comms, I feel I have to lean on it.
 
@@ -21,7 +21,7 @@ The fight goes well, notably with [[The Vengeance Control Loophole#Laz0rbrn (the
 
 Finally, the mercenary crew is largely destroyed, aside from Tricksy who is forced to exit her mech under pain of being exploded. She is then killed, while unarmed and functionally having surrendered, by [[The Vengeance Control Loophole#Jack (he/him)|Jack]]. [[The Vengeance Control Loophole#Jack (he/him)|Jack]] isn't fucking around, this man has hate in his heart. Notable salvage is the Brawler chassis, and the entire intact Sentinel Mirrorball.
 
-[[The Vengeance Control Loophole#Laz0rbrn (they/them)|Laz0rbrn]] hacks into the mercenary mechs, and determines where they were contracted to take the reclaimed contents of the Atychos to -  the [[Corporations#Adamant Arch Planetary|Arch-Novel]] facility at [[2 Scamander Point|Scamander Point]]. Picking through the wreckage they find cracked sub-zero containment vessels. Presumably the meld was being held in statis for transport. Note that [[2 Scamander Point|Scamander Point]] was not the flyer's ultimate destination (the party knows this too).
+[[The Vengeance Control Loophole#Laz0rbrn (they/them)|Laz0rbrn]] hacks into the mercenary mechs, and determines where they were contracted to take the reclaimed contents of the Atychos to -  the [[Adamant Arch Planetary#Notable Sub-divisions|Arch-Novel]] facility at [[2 Scamander Point|Scamander Point]]. Picking through the wreckage they find cracked sub-zero containment vessels. Presumably the meld was being held in statis for transport. Note that [[2 Scamander Point|Scamander Point]] was not the flyer's ultimate destination (the party knows this too).
 
 ## Outcomes
 - Lots of scrap and mech parts.
