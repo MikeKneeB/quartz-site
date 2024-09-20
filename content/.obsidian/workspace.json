@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Salvage Union - Ashkar/Adventures/1 Downing of the Atychos.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1a608b629fffcfdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salvage Union - Ashkar/The Vengeance Control Loophole.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Salvage Union - Ashkar/The Vengeance Control Loophole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Salvage Union - Ashkar/The Vengeance Control Loophole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Salvage Union - Ashkar/The Vengeance Control Loophole.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +158,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6be594944315da99",
+  "active": "1a608b629fffcfdb",
   "lastOpenFiles": [
-    "License.md",
-    "index.md",
+    "Salvage Union - Ashkar/Focis System.md",
+    "Salvage Union - Ashkar/Adventures/2 Scamander Point.md",
+    "Salvage Union - Ashkar/Adventures/1 Downing of the Atychos.md",
+    "Salvage Union - Ashkar/Corporations/Adamant Arch Planetary.md",
+    "Salvage Union - Ashkar/Corporations/Clementine Laurel Corporation.md",
+    "Salvage Union - Ashkar/Corporations/Invoke Arms.md",
+    "Salvage Union - Ashkar/Corporations/Regalia Luxe.md",
+    "Salvage Union - Ashkar/Homebrew/Rules Hacks.md",
+    "Salvage Union - Ashkar/Homebrew/Mech Parts.md",
+    "Salvage Union - Ashkar/The Vengeance Control Loophole.md",
+    "Salvage Union - Ashkar/About.md",
+    "Salvage Union - Ashkar/index.md",
+    "Lancer - Tabernacle/index.md",
+    "Salvage Union - Ashkar/Corporations/index.md",
     "Lancer - Tabernacle/Missions/Mission 0.md",
-    "Troika!/Play Reports/The Hand of God - Rezkin's Folly.md"
+    "Salvage Union - Ashkar/Homebrew",
+    "_images/caldera_full.png",
+    "_images/facility_n01.png",
+    "_images/scamander_main.png",
+    "_images/scamander_9.png",
+    "_images",
+    "Salvage Union - Ashkar/Corporations",
+    "Lancer - Tabernacle/System/0L875 Tabernacle.md",
+    "Lancer - Tabernacle/Groups/Pirates/The Big Dogs.md",
+    "Salvage Union - Ashkar/Adventures",
+    "Salvage Union - Ashkar/Adventures.md",
+    "Lancer - Tabernacle/ENLIL Adherents.md",
+    "Lancer - Tabernacle/About.md",
+    "Lancer - Tabernacle/Gate Crisis.md",
+    "Troika!/Play Reports/The Hand of God - Rezkin's Folly.md",
+    "index.md",
+    "License.md",
+    "Salvage Union - Ashkar/Corporations/Adamant Arch Planetary (AAP).md",
+    "Salvage Union - Ashkar/Corporations",
+    "Lancer - Tabernacle/System/About.md",
+    "Salvage Union - Ashkar/System",
+    "Salvage Union - Ashkar"
   ]
 }
