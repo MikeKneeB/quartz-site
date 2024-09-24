@@ -3,7 +3,6 @@ tags:
   - salvage-union
 ---
 
-
 Previously known as:
 - The Revenge
 - The Vengeance Control
