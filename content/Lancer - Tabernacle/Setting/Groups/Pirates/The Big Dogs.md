@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 ## Hustle
 
 - Toll taking and “insurance”

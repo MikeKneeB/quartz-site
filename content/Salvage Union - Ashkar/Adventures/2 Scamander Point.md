@@ -1,6 +1,7 @@
 ---
 tags:
   - play-report
+  - salvage-union
 ---
 
 Scamander Point is nestled in an area of small-ish (relatively speaking) area of jungle that springs out from the desert around a handful of large table-top mountains (think lost-world style). On one of these table-tops is a huge cracked habitat zone (Scamander). The hab dome itself is very old, and a much newer structure has been built poking out from the wreckage - this is the [[Adamant Arch Planetary#Notable Sub-divisions|Arch-Novel]] Scamander Station Fortified Laboratory.

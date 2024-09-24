@@ -3,14 +3,34 @@ cssclass: embed-big-titles
 draft: true
 tags:
   - play-report
+  - lancer
 ---
 
-# Could Have Happened to Anyone
 The entity known as ENLIL has charted a course to a largely uninhabited region of the moon [[Tabernacle III - Cruet|Pyx]]. He promises safety, a place out of the way and safe from the foes of the divine manifest.
 
 Aboard the stolen mining survey vessel **Enemy of Perfection**, piloted by *Olia Moure*, the crew are on there way over there.
 
 Currently manoeuvring in Cruet's gravity well, the [[DerBoa Empire|DerBoa]] jugular-class fast attack ship **Bloodlapper** is locked on, and ready to begin boarding actions.
+
+# Mission Report
+
+## Metal On Metal
+
+[[ENLIL Adherents#Yumei|Yumei]] on the bridge, staring out at the stars, catches *Olia* tense up. Something's coming in fast on radar, and the **Enemy of Perfection** lurches like it's been physically grabbed. Ship alarms sound, and the whole interior is washed crimson in emergency lights. Suit up Lancers, we're under attack.
+
+In the hangar bay the crew scrambles into their mechs just as an appalling howl of grinding metal on metal reverbates through the hull. Two gigantic breach drills rip through the hull, white hot and dripping slag.
+
+The boarding crew of the **Bloodlapper** pour out, led by *Uthgerd Iro* in the **Crown of Thorns**[^4]. The crew stand their ground, engaging in a quick & bloody combat:
+- The Breacher **Pleased to Meetcha** bursts physically through the boarding drill with a ram, and tries to shotgun **Feline Pain** (*Mi-Tenz*) & **Cruel World** (*Gorn*). *Gorn* proceeds to grapple, and then smack the crap out of them.
+- *Lonnie* dashes forward, leaving mirage trails and a mine, which the **Crown of Thorns** dutifully steps on - dealing pretty cataclysmic damage[^5].
+- The **Edge of Reason** locks onto the **Euphrates** (*William*) with a Sniper's Mark. *William* plays an uno-reverse - activating Hunter Lock and demolishing them basically instantly.
+- **Optional Philosophy** charges forward, chain axe whirring. Unfortunately the **Feline Pain** isn't so easy to pin down.
+- **Liar's Dice** activates their cloaking field, rendering them and their allies invisible. *Lonnie* can't get a bead on any of them with their veil rifle or tech attacks.
+
+But, through the chaos and carnage, the crew emerge victorious.[^6]
+
+
+# Mission Setup
 
 ## Plot Beats/Questions/Goals
 - Opens with boarding action from the **Bloodlapper** boarding crew.
@@ -53,23 +73,6 @@ They have captured the **Warmest Regards**, a small outrigger for [[The Big Dogs
 - Bridge, probably with Octavio on deck.
 - STOP drive
 - Engine bay
-
-## Action Report
-
-### 1. Metal On Metal
-
-[[ENLIL Adherents#Yumei]] on the bridge, staring out at the stars, catches *Olia* tense up. Something's coming in fast on radar, and the **Enemy of Perfection** lurches like it's been physically grabbed. Ship alarms sound, and the whole interior is washed crimson in emergency lights. Suit up Lancers, we're under attack.
-
-In the hangar bay the crew scrambles into their mechs just as an appalling howl of grinding metal on metal reverbates through the hull. Two gigantic breach drills rip through the hull, white hot and dripping slag.
-
-The boarding crew of the **Bloodlapper** pour out, led by *Uthgerd Iro* in the **Crown of Thorns**[^4]. The crew stand their ground, engaging in a quick & bloody combat:
-- The Breacher **Pleased to Meetcha** bursts physically through the boarding drill with a ram, and tries to shotgun **Feline Pain** (*Mi-Tenz*) & **Cruel World** (*Gorn*). *Gorn* proceeds to grapple, and then smack the crap out of them.
-- *Lonnie* dashes forward, leaving mirage trails and a mine, which the **Crown of Thorns** dutifully steps on - dealing pretty cataclysmic damage[^5].
-- The **Edge of Reason** locks onto the **Euphrates** (*William*) with a Sniper's Mark. *William* plays an uno-reverse - activating Hunter Lock and demolishing them basically instantly.
-- **Optional Philosophy** charges forward, chain axe whirring. Unfortunately the **Feline Pain** isn't so easy to pin down.
-- **Liar's Dice** activates their cloaking field, rendering them and their allies invisible. *Lonnie* can't get a bead on any of them with their veil rifle or tech attacks.
-
-But, through the chaos and carnage, the crew emerge victorious.[^6]
 
 [^4]: The **Bloodlapper** boarding crew consists of:
     - *Uthgerd Iro*, pilotting the **Crown of Thorns** (Veteran Bastion pattern)

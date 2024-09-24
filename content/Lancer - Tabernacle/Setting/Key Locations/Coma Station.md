@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 Hollowed out asteroid from the [[Alzabo Extraction]] operation in [[Tabernacle V - The Gilt Chain|The Gilt Chain]], now the focus of [[Alzabo Extraction|Alzabo’s]] holdings in the area:
 
 ## Purpose

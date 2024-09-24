@@ -1,6 +1,7 @@
 ---
 tags:
   - play-report
+  - salvage-union
 ---
 
 Facility N01 is a huge abandoned metal structure, perched atop a glacier valley, deep in the mountains. The original purpose of the facility is not exactly clear, and it's protected by an ancient defence network generally deemed "to much hassle" by corporations to scour.

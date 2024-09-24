@@ -1,5 +1,6 @@
 ---
-draft: false
+tags:
+  - salvage-union
 ---
 
 These are the homebrew rules/hacks we've introduced in the campaign. I do want to just say, I played this game completely as written for a substantial number of sessions before making these changes. These weren't made without trying the game as-is, and I feel like they've had a positive impact on our game! I don't view these changes as "fixes", they just move the game more towards my preference.

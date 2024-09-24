@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 ## Holdings
 - Fleet of asteroids rich in rare minerals - [[Tabernacle V - The Gilt Chain|The Gilt Chain]].
 ## Known Representatives

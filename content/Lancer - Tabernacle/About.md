@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 This is setting notes and session reports for a game of [Lancer](https://massifpress.com/lancer) I'm running set in the Tabernacle system. I used the expansion [The Long Rim](https://massif-press.itch.io/the-long-rim) extensively to generate up the system, although this is not actually in the Long Rim itself.
 
 The setting is heavily inspired by *The Algebraist* by Iain M. Banks, a system cut-off from external assistance and under threat from an expansionist empire is the framing that book uses as well (but that's effectively where the similarities end).

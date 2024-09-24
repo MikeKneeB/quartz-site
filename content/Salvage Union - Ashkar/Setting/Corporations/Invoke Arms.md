@@ -1,3 +1,8 @@
+---
+tags:
+  - salvage-union
+---
+
 Newly formed military and general fabrication conglomerate, meteoric rise from upstart novel weapons manufacturer to interstellar powerhouse.
 
 # Approach

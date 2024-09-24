@@ -1,6 +1,7 @@
 ---
 tags:
   - play-report
+  - salvage-union
 ---
 
 For the first mission, I ran the Downing of the Atychos. This is the suggested/example/starter adventure from the core rulebook. I made no tangible changes to this adventure, with the note that the Atychos was an [[Adamant Arch Planetary|AAP]] flyer.

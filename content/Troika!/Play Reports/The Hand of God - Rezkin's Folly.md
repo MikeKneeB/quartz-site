@@ -1,6 +1,7 @@
 ---
 tags:
   - play-report
+  - troika!
 ---
 
 

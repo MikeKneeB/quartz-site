@@ -1,3 +1,8 @@
+---
+tags:
+  - salvage-union
+---
+
 ##### 10,000 Years Ago
 [[The Argent Republic]] first forms, uniting the Galaxy for the first time under the rule of the Exarch AIs.
 

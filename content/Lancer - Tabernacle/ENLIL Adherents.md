@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 The player characters came together around an entity discovered in [[Tabernacle V - The Gilt Chain|The Gilt Chain]], which is known as ENLIL. The entity manifests as a 12 metre long black obelisk, still partially embedded in a portion of asteroid rock it was initially discovered in. It is obsidian black, and carved with grooves in geometric patterns. There are small floating sections of the black rock suspended around the entity, these are totally immobile and unmovable.
 
 After discovering the ENLIL entity William, Lonnie, and Gorn have left their previous employer [[Alzabo Extraction]], voiding their contracts and stealing company property (the survey vessel **Enemy of Perfection**). Since then they have been joined by Mi-Tenz and Yumai.

@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 Largest habitat dome on [[Tabernacle III - Cruet|Cruet]]. Largely owned by [[Octopotenta BioTech]], but day-to-day operation is done by the limited corporation Derrick Dome Administration (DDA).
 
 There is also a space elevator at Derrick, which leads up to the Derrick space port.

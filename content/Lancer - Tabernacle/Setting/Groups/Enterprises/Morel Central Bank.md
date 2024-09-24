@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 ## Holdings
 
 - Standard currency used throughout the local cluster.

@@ -1,6 +1,7 @@
 ---
 tags:
   - play-report
+  - salvage-union
 ---
 
 The Vengeance Control Loophole salvage crew is after a big payout, they'd like to grab some high-end gear to outfit themselves before they head up to [[The Argent Republic]] station in the planet above.

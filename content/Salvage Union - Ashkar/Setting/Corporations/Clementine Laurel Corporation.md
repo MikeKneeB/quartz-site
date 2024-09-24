@@ -1,3 +1,8 @@
+---
+tags:
+  - salvage-union
+---
+
 Recent merger of Clementine Processing (specialising in mass-market electronic components) and Laurel Services (creators of the Wreath™ surveillance suite and accompanying Broach™ productivity drone AI). 
 
 # Approach

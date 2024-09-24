@@ -1,3 +1,8 @@
+---
+tags:
+  - salvage-union
+---
+
 The Argent Republic was the central power in the galaxy for almost 10,000 years. The Republic was led by a group of hyper-advanced AI entities known as the Exarchs. The Republic fell in a slow decline, with the Exarchs becoming less and less interested with human existence, and letting their empire decay down to petty local tyrants exercising sanctioned brutal control over the populace on countless worlds.
 
 Eventually, seeking to regain control, the Argent Republic began the galactic "Silver Rain" war almost 5000 years ago. This started as an attempt to bring local tyrants to heel, but this quickly devolved into an out-an-out rebellion against the Argent Republic's Interdiction forces and many of the ruling powers. Eventually the Republic burned itself out, and the Exarchs were felled.

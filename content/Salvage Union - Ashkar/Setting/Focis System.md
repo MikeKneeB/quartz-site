@@ -1,3 +1,8 @@
+---
+tags:
+  - salvage-union
+---
+
 The Focis system was generated using the [DonJon Star System Generator](https://donjon.bin.sh/scifi/system/), then modified extensively.
 
 # Basic Stellar Details

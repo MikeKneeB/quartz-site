@@ -1,3 +1,8 @@
+---
+tags:
+  - salvage-union
+---
+
 Secretive ultra-luxury and biotechnology corporation.
 
 Regalia is organised into a series 15 of partially hereditary houses. Each house participates in a kind of court/council politics, organised around the head of the currently ruling (prime) house. Business responsibilities are distributed among the houses in a complex web of political favour and maneuvering.

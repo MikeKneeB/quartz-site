@@ -1,3 +1,8 @@
+---
+tags:
+  - lancer
+---
+
 Collection of abandoned freighters and shipping vessels, all lashed and welded together some 200 years ago. Since been continually added to, and eventually incorporated into its own conglomerate. This was then bought by [[Morel Central Bank]], and is now operated exclusively by MCB. Residents maintain a free-booter spirit from its founding days, despite now being effectively run by a bank.
 
 ## Purpose
