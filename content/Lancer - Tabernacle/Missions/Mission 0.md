@@ -1,6 +1,8 @@
 ---
 cssclass: embed-big-titles
 draft: true
+tags:
+  - play-report
 ---
 
 # Could Have Happened to Anyone

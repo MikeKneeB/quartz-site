@@ -12,6 +12,12 @@ Overwhelm, straight-talk, an offer you can’t refuse, reinforced steel.
 - AAP Novel Technology (Arch-Novel): research and clandestine.
 - AAP Extraction (AdEx): mining and ground troops.
 - Evantis Heavy Industries (Evantis): consumer mech nameplate.
+- Lots of mercernary teams sub-contracted out
 
 # Logo
 Black arched bridge in front of ringed crescent planet.
+
+# Known Agents
+
+## Jori Ungle
+Was the head of the 

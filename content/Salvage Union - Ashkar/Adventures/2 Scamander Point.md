@@ -1,3 +1,8 @@
+---
+tags:
+  - play-report
+---
+
 Scamander Point is nestled in an area of small-ish (relatively speaking) area of jungle that springs out from the desert around a handful of large table-top mountains (think lost-world style). On one of these table-tops is a huge cracked habitat zone (Scamander). The hab dome itself is very old, and a much newer structure has been built poking out from the wreckage - this is the [[Adamant Arch Planetary#Notable Sub-divisions|Arch-Novel]] Scamander Station Fortified Laboratory.
 
 The jungle sits atop an ancient underground city, which is largely unexplored, due to their being a **Scylla** down here. Mostly, the city is only really accessible accidentally.
@@ -68,7 +73,7 @@ While trudging around, [[The Vengeance Control Loophole#Athena (she/her)|Athena]
 
 Up through the tunnel, they spy one of [[2 Scamander Point#Scamander]]'s drones and dispatch it quickly. Unfortunately, breaking a drone leaves a whole in the network, and whoever is at the top of the facility probably knows they're here. Time to get moving.
 
-At the top of the tunnel, coming out at [[2 Scamander Point#10.5|10.5]] they are met with an array of drones, and [[2 Scamander Point#Scamander|Julie Garnet]] in her Terra. This seems like a pretty small defence force, and it turns out to indeed put up almost no resistance.
+At the top of the tunnel, coming out at [[2 Scamander Point#10.5 Facility Rear|10.5]] they are met with an array of drones, and [[2 Scamander Point#Scamander|Julie Garnet]] in her Terra. This seems like a pretty small defence force, and it turns out to indeed put up almost no resistance.
 
 Why are they so thin on the ground? Well, it turns out [[2 Scamander Point#Argent Republic Interdiction Squad|AGLA]] got here just ahead of the party, and is pretty much done wrecking the other half of Scamander's drones and Dawn Ike. The crew decides, frankly, that this looks like a bad situation, and lay low for a while.
 
@@ -78,13 +83,15 @@ Hacking into the camera system they discover, in grainy footage, AGLA moved thro
 
 Finally, rooting through the computer files, [[The Vengeance Control Loophole#Laz0rbrn (they/them)|Laz0rbrn]] discovers the location the Atychos from the first adventure was originally travelling to - Facility N01.
 
+They decide to head towards Facility N01, because it looks from the trail through the Jungle that AGLA is making his way their as well.
+
 ## Outcomes
 - Lots of scrap, including an INRI frame and Hellfire shotgun.
 - T2 crawler, fitted with a stupidly sized railcannon.
 - The location of the Atychos's original destination.
 - AGLA is loose, and in possession of a quantity of meld roughly equal to a behemoth, who knows exactly what his relationship to the alien construct is.
 - Some rudimentary ways to communicate with the meld.
-- Plans to build climate stabilisers (immediately put to use on [[The Vengeance Control Loophole#The Rooftop Garden]])
+- Plans to build climate stabilisers (immediately put to use on [[The Vengeance Control Loophole#The Rooftop Garden|the crawler roof]]).
 
 # Adventure Setup
 
@@ -170,7 +177,7 @@ In the underground city: *Area Salvage* TL 3 // Supply 6
 
 ### 6 - Inner Jungle
 
-Dotted through this region of the jungle are a handful of blinking contraptions. They’re marked [[Corporations#Adamant Arch Planetary|ArchNovel]], and could be salvaged for 2 T3 scrap each. Destroying one will alert Scamander - who will send a drone to investigate.
+Dotted through this region of the jungle are a handful of blinking contraptions. They’re marked [[Adamant Arch Planetary#Notable Sub-divisions|ArchNovel]], and could be salvaged for 2 T3 scrap each. Destroying one will alert Scamander - who will send a drone to investigate.
 
 ### 7 - Old Evantis Manufactury
 
@@ -228,21 +235,21 @@ Inside in the whirring computer banks is a map of the Scamander lab, and surroun
 ### 10 - Scamander Point
 I couldn't find my map for Scamander Point - it's lost to time.
 
-#### 10.1
+#### 10.1 The Waterfall
 
 Easiest route up through the crack in the dome. Watched by Dawn Ike & Scamander from 10.3
 
-#### 10.2
+#### 10.2 The Pool
 
 Source pool for the river, likely to find Paulie Garnet here in the Sifter.
 
-#### 10.3
+#### 10.3 Scamander A
 
 Abandoned facility building.
 
 *Area Salvage*: Tech 2 // Supply 5
 
-#### 10.4
+#### 10.4 Scamander B
 
 Main scamander point facility building, Dawn, Scamander, and Paulie will retreat here if they can.
 
@@ -250,7 +257,7 @@ In the pit of the facility is a meld research laboratory, a large meld swarm is 
 
 *Area Salvage*: Tech 3 // Supply 3
 
-#### 10.5
+#### 10.5 Facility Rear
 
 This is where the secret tunnel comes up, dense jungle.
 
@@ -258,7 +265,7 @@ This is where the secret tunnel comes up, dense jungle.
 
 ### ArchNovel
 
-Subsidiary of [[Corporations#Adamant Arch Planetary]], concentrated around the [[2 Scamander Point#10 - Scamander Point|Scamander facility]].
+Subsidiary of [[Adamant Arch Planetary]], concentrated around the [[2 Scamander Point#10 - Scamander Point|Scamander facility]].
 
 #### Scamander
 - Walker Drones, probably about 20 in total, unlikely to deploy them all in one go.
@@ -271,7 +278,9 @@ Subsidiary of [[Corporations#Adamant Arch Planetary]], concentrated around the [
 - Martha & Helena (both she/her) - Opus Gophers
 
 ### The Quality Control
-The *Corrective Action* is a space ship-to-ship railcannon (would have been fitted as part of a battery of auxilliary weapons on a medium-weight SotL) it is Far Range, Damage 30 SP, Ballistic, Deadly.
+Is a Union Crawler, currently with their main reactor down, and stranded on the edge of the jungle.
+
+The *Corrective Action* is a space ship-to-ship railcannon (would have been fitted as part of a battery of auxiliary weapons on a medium-weight ship-of-the-line) it is Over-Far Range, Damage 30 SP, Ballistic, Deadly.
 
 *Overseer*: Lorey Dust (he/him).
 
@@ -285,6 +294,8 @@ The *Corrective Action* is a space ship-to-ship railcannon (would have been fitt
 - Whelk Ion (they/them) - Rigger Scrapper
 
 ### Broken Wheel
+Are a sizable raider band, operating out of a raider town on the outskirts of the jungle.
+
 *Chief*: Rowan (he/him) - Thunder Storm Atlas
 
 #### Raiding Party
@@ -295,7 +306,7 @@ The *Corrective Action* is a space ship-to-ship railcannon (would have been fitt
 - Fighting Box Wheel
 - Raider Band x2
 
-I didn't give NPCs guys full names, just sketches. To be filled in if needed.
+I didn't give these NPCs full names, just sketches. To be filled in if needed.
 
 #### Ambushers
 - Hylia - Mauler Hussar
@@ -304,9 +315,9 @@ I didn't give NPCs guys full names, just sketches. To be filled in if needed.
 ### Critters
 
 #### Puma
-Six legged long-snouted partially exoskeleton’d megafauna. Hunt in packs, with specialised bioforms performing specific roles. While this has the same name as an old-earth creature - it's as high up to the shoulder as most mechs, and easily three times as long. Absolutely not to be fucked with.
+Six legged long-snouted partially exoskeleton’d mega-fauna. Hunt in packs, with specialised bioforms performing specific roles. While this has the same name as an old-earth creature it's as high up to the shoulder as most mechs, and easily three times as long. Absolutely not to be fucked with.
 
-SP 15 each.
+15 SP each.
 
 All of them have:
 - Giant claws: Damage 3SP, multi-attack (2)
@@ -317,11 +328,11 @@ Some of them have:
 
 ### Ghost Mechs
 
-Various meld splitters and smaller, and any number of pilotted T1 mech patterns as appropriate.
+Various meld splitters and smaller, and any number of piloted T1 mech patterns as appropriate.
 
 ### Regalia Infiltration Clade
 
-Part of [[Corporations#Regalia Luxe]], no direct obvious presence, only here in the random encounters.
+Part of [[Regalia Luxe]], no direct obvious presence, only here in the random encounters.
 
 - Scion Anastasia//SAPPHIRE (she/her) - Modified Needler Photon//HALBERDIER
 	Severe features, bloodthirsty cold blue eyes, long black hair. Her mech is painted bubblegum pink. "Infiltration".
@@ -341,7 +352,7 @@ This consists of:
 - INRI, a tactical support automata
 - NOX, an executor automata
 
-AGLA is the only one that speaks to the crew, although NOX can also talk. INRI cannot, being a fundamentally different kind of mind and unable to really conceptualise language.
+AGLA is the only one that speaks to the crew, although NOX can also talk. INRI cannot, being a fundamentally different kind of mind and unable to really conceptualise language. See more details about [[The Argent Republic|The Argent Republic]] at that link.
 
 [^1]: This is sort of a "bad trap" because there isn't really an obvious telegraph. That being said, if the players gather information from the Quality Control or raiders, or asked their crawler AI, it's something I would let them avoid. It's also pretty soft, only really being an objective problem on a nat 1 (which players could re-roll). Looking back, I probably wouldn't write this like this again, but it didn't trigger so it doesn't really matter.
 

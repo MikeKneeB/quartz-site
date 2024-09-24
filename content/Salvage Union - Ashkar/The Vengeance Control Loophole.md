@@ -2,7 +2,7 @@ Previously known as:
 - The Revenge
 - The Vengeance Control
 
-The Vengeance Control Loophole is an Augmented Crawler.
+The Vengeance Control Loophole is an Augmented Crawler. It looks like a giant mechanical centipede, with a huge number of massive legs. The interior is fairly tight and cramped, reminiscent of a submarine, but it's homily decorated. The rooftop decks are wide and expansive.
 
 # Player Characters
 ## Laz0rbrn (they/them)
@@ -16,9 +16,9 @@ Jack is a Soldier (adv.), he used to work for one of the corporations, but the l
 His current mech is the Czar, a Brawler chassis.
 
 ## Athena (she/her)
-Athena is an Engineer (adv.), she wears cool round sunglasses (these were looted of the corpse of Baines in [[1 Downing of the Atychos|the first adventure]]) and has a "pet" lizard called [[The Vengeance Control Loophole#Dougal]]
+Athena is an Engineer (adv.), she wears cool round sunglasses (these were looted of the corpse of Baines in [[1 Downing of the Atychos|the first adventure]]) and has a "pet" lizard called [[The Vengeance Control Loophole#Dougal|Dougal]]. She also has an AI controlled turret, called Hank.
 
-Her current mech is the Snaf-Three, an INRI chassis.
+Her current mech is the Snaf-Three, an [[Mech Parts#^7760fc|INRI]] chassis.
 
 ## Gert (she/her)
 Gert is a Hauler (adv.), she's gloomy as all hell (but starting to shine a little more), and used to be a raider.
@@ -30,7 +30,7 @@ Wet Steve is not like the others. He's an enigma. A wet, wet enigma. My personal
 
 Wet Steve is Smuggler (hyb.).
 
-His current mech is Mr Nips[^1], an AGLA chassis.
+His current mech is Mr Nips[^1], an [[Mech Parts#^57d4eb|AGLA]] chassis.
 
 # Non-Player Characters
 ## Hal (she/they)
@@ -50,7 +50,7 @@ Lorey was the overseer of the Quality Control, a position he was in by lottery a
 He's got black skin, bright keen eyes, and long dreadlocks.
 
 ## Dougal
-Dougal is a lizard, who was "rescued" from the jungle by Athena. He now lives in the section of forest in [[The Vengeance Control Loophole#The Rooftop Garden|the rooftop garden]]. He has been armed, by Athena, who fitted a miniature (non-lethal) gun to his back. He can use this to deter unwelcome attention from the crawler's children.
+Dougal is a lizard, who was "rescued" from the jungle by Athena. He now lives in the section of forest in [[The Vengeance Control Loophole#The Rooftop Garden|the rooftop garden]]. He has been armed, by Athena, who fitted a miniature (non-lethal, water based) gun to his back. He can use this to deter unwelcome attention from the crawler's children.
 
 Dougal is really adapting to his new life with aplomb, he was pretty hacked off about the initial kidnapping, but now that he's settled into his new jungle and been fitted with weaponry, he's well pleased.
 
@@ -59,7 +59,7 @@ Dougal has six legs, and is sort of similar in size to a large iguana.
 # Locations
 
 ## The Briefing Room
-The briefing room is a small and cramped room, with a large holo-map table. It seats about 16 maximum, and is where the salvage crew discuss their next mission with Hal.
+The briefing room is a small low-ceiling-ed room, with a large holo-map table. It seats about 16 maximum, and is where the salvage crew discuss their next mission with Hal.
 
 ## The Rooftop Garden
 After stealing plans for climate stabilisers from [[Adamant Arch Planetary#Notable Sub-divisions|Arch-Novel]], the crew built one and set it atop their crawler. Along with the jungle fruits and seeds Athena & Gert brought back they now have a small section of thriving tropical jungle on the roof of their crawler.

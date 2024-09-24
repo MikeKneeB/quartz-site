@@ -1,3 +1,9 @@
+---
+tags:
+  - play-report
+---
+
+
 This was a session of Troika! running The Hand of God. I decided to start the adventure outside Rezkin's Folly, and run that as a dungeon by itself. The players are told that:
 - Wizards are all bastards.
 - There's probably loads of treasure in that tower.
