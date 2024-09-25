@@ -14,7 +14,7 @@ No doubt the AdArch mercs will be moving in at the same time, and we should expe
 
 ## Schmidt's Cleaning
 
-Before departure, everyone suits up in hazard gear from the crawler's quartermaster. Good job we're TL 3 now, or this would be a tough area to explore. The crawler is directed to let them off at [[4 The Caldera#6 - South Runoff|the south of the caldera]], nearest the obvious easiest path in to the crater at [[4 The Caldera#11 - Caldera Pass#the caldera pass]].
+Before departure, everyone suits up in hazard gear from the crawler's quartermaster. Good job we're TL 3 now, or this would be a tough area to explore. The crawler is directed to let them off at [[4 The Caldera#6 - South Runoff|the south of the caldera]], nearest the obvious easiest path in to the crater at [[4 The Caldera#11 - Caldera Pass|the caldera pass]].
 
 Just out from the hangar bay, the crew takes a quick sample of the water runoff in the area, and sends it back to the crawler for processing. After a moment we get confirmation that, yep, try not to breathe in the fumes, and definitely don't go swimming. Specifics of what's in here will take a bit more time.
 
@@ -46,13 +46,14 @@ The entire vengeance control crew is instantly smitten. In the anime, everyone i
 	- GRAVESTONE
 	- PLINTH
 	- NURSE
+	
 	I'm really glad they asked this, the Private Party is a great name, the whole crew here is rocking some pretty ace mech names (except NURSE, which is a bit uninspired).
 
 ## I said it's a PRIVATE PARTY
 
 And with that, battle begins in earnest, with the salvage crew now being fired on by the Regalia Infiltration team.
 
-The GRAVESTONE & PLINTH units are unholy terrors, they're up in a prime position in the rocks, and well defended by the two brawler units the PRIVATE PARTY. The setup here is rough for the crew, the terrain is not in there favour at all as they're fighting uphill.
+The GRAVESTONE & PLINTH units are unholy terrors, they're up in a prime position in the rocks, and well defended by the two brawler units and the PRIVATE PARTY. The setup here is rough for the crew, the terrain is not in their favour at all as they're fighting uphill.
 
 The NURSE's drone helper is taken over by [[The Vengeance Control Loophole#Laz0rbrn (they/them)|Laz0rbrn]], but unfortunately that still leaves the NURSE itself free to unleash tesla hell[^3].
 
