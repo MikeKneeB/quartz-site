@@ -31,7 +31,7 @@ Finally, the mercenary crew is largely destroyed, aside from Tricksy who is forc
 
 ## Outcomes
 - Lots of scrap and mech parts.
-- The location that the mercenary team
+- The location that the mercenary team were tasked to deliver the recovered meld to.
 
 # Final Notes
 - I probably shouldn't have let them have the whole Mirrorball for free. This was a big GM mistake. Along with the Brawler chassis, it was too massive a power spike.

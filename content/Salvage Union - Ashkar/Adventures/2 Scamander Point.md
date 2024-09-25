@@ -89,7 +89,7 @@ They decide to head towards Facility N01, because it looks from the trail throug
 ## Outcomes
 - Lots of scrap, including an INRI frame and Hellfire shotgun.
 - T2 crawler, fitted with a stupidly sized railcannon.
-- The location of the Atychos's original destination.
+- The location of the Atychos's original destination - [[3 Facility N01|Facility N01]].
 - AGLA is loose, and in possession of a quantity of meld roughly equal to a behemoth, who knows exactly what his relationship to the alien construct is.
 - Some rudimentary ways to communicate with the meld.
 - Plans to build climate stabilisers (immediately put to use on [[The Vengeance Control Loophole#The Rooftop Garden|the crawler roof]]).
