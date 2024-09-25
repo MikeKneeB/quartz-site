@@ -1,6 +1,6 @@
 name: Build and Deploy Gently Rotting Site
 run-name: Build🛠️ and Deploy🚀
-on: 
+on:
   push:
 permissions:
   id-token: write
@@ -28,6 +28,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: gently-rotting-site
+          path: public
       - name: Package site as tar
         run: tar -cvJf gently-rotting-site-${{ github.sha }}.tar.xz public
       - name: Copy tar to Lightsail instance
