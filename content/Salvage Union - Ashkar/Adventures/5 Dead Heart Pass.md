@@ -40,6 +40,7 @@ At the city:
 - Found the ruined mechs, disarmed and looted!
 - Saw a heron drone moving in towards the outlander salvage crew, and warned them in time for them to defend themselves.
 - Convinced Janine to head back to solace, once the crew's mission is complete they'll work with Janine and Gambit to take out the Bandits and free the town.
+- Went "fishing".
 - Headed up to 9, then down into the abandoned station. Planted bombs on the tracks here, as a fail-safe if the bridge goes wrong.
 
 # Adventure Setup

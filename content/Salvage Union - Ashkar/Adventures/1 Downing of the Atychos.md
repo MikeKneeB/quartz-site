@@ -25,7 +25,7 @@ Battle is swiftly also joined by a gigantic Meld Behemoth that was under the cen
 
 The fight goes well, notably with [[The Vengeance Control Loophole#Laz0rbrn (they/them)|Laz0rbrn]] reaching out and trying to communicate with the meld. They partially succeed, which causes the meld to flee.
 
-Finally, the mercenary crew is largely destroyed, aside from Tricksy who is forced to exit her mech under pain of being exploded. She is then killed, while unarmed and functionally having surrendered, by [[The Vengeance Control Loophole#Jack (he/him)|Jack]]. [[The Vengeance Control Loophole#Jack (he/him)|Jack]] isn't fucking around, this man has hate in his heart. Notable salvage is the Brawler chassis, and the entire intact Sentinel Mirrorball.
+Finally, the mercenary crew is largely destroyed, aside from Tricksy who is forced to exit her mech under pain of being exploded. [[The Vengeance Control Loophole#Jack (he/him)|Jack]] doesn't think she can be safely left alive, he isn't fucking around, this man has hate in his heart. Notable salvage is the Brawler chassis, and the entire intact Sentinel Mirrorball.
 
 [[The Vengeance Control Loophole#Laz0rbrn (they/them)|Laz0rbrn]] hacks into the mercenary mechs, and determines where they were contracted to take the reclaimed contents of the Atychos to -  the [[Adamant Arch Planetary#Notable Sub-divisions|Arch-Novel]] facility at [[2 Scamander Point|Scamander Point]]. Picking through the wreckage they find cracked sub-zero containment vessels. Presumably the meld was being held in statis for transport. Note that [[2 Scamander Point|Scamander Point]] was not the flyer's ultimate destination (the party knows this too).
 

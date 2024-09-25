@@ -1,26 +1,35 @@
-name: Deploy Gently Rotting Site
-run-name: Deploy Site 🚀
+name: Build and Deploy Gently Rotting Site
+run-name: Build🛠️ and Deploy🚀
 on: 
   push:
-     branches:
-       - main
 permissions:
   id-token: write
   contents: read
 jobs:
-  Explore-GitHub-Actions:
+  Build-Site:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
       - run: mkdir public
-      - run: docker compose run quartz-builder
-      - run: tar -cvJf gently-rotting-site-${{ github.sha }}.tar.xz public
+      - name: Build site
+        run: docker compose run quartz-builder
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: gently-rotting-site
           path: public
+  Deploy-Site:
+    if: github.ref == 'refs/heads/main'
+    needs: Build-Site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Retrieve built site
+        uses: actions/download-artifact@v4
+        with:
+          name: gently-rotting-site
+      - name: Package site as tar
+        run: tar -cvJf gently-rotting-site-${{ github.sha }}.tar.xz public
       - name: Copy tar to Lightsail instance
         uses: appleboy/scp-action@master
         with:
