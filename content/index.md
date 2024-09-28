@@ -11,4 +11,4 @@ You can find my content on [Itch](https://gentlyrotting.itch.io/). You can also 
 I'm Mike, I write, run, and play TTRPGs, and have been doing so for about 7 years now. I play all sorts of games, but in particular a lot of [Troika!](https://www.troikarpg.com/), and I have a published Troika! module called The Hand of God out as part of Melsonian Arts Council's [1:5 project](https://www.melsonia.com/15-project-29-w.asp).
 
 # Games
-I'm currently running an ongoing game of [[Salvage Union - Ashkar/About|About|Salvage Union]], I'm just starting a game of [[Lancer - Tabernacle/About|Lancer]], and I run loads and loads of Troika! one-shots.
+I'm currently running an ongoing game of [[Salvage Union - Ashkar/About|Salvage Union]], I'm just starting a game of [[Lancer - Tabernacle/About|Lancer]], and I run loads and loads of Troika! one-shots.

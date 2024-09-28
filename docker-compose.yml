@@ -13,6 +13,10 @@ services:
       # Extra components
       - ./extra/components:/work/quartz/quartz/extra:ro
 
+      # Custom CSS
+      - ./quartz_custom.scss:/work/quartz/quartz/styles/custom.scss:ro
+      - ./extra/styles:/work/quartz/quartz/styles/obsidian:ro
+
       # Output directory
       - ./public:/work/quartz/public
 

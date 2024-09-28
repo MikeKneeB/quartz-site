@@ -185,7 +185,7 @@ tags:
 
 > [!module]
 > ## Duplexer Control System
-> This experimental piece Opus designed of control technology allows you to duplex your chassis into a dual-mode CORE//SUB-CONTROL system.
+> This experimental piece Opus designed control technology allows you to duplex your chassis into a dual-mode CORE//SUB-CONTROL system.
 >
 > You mech chassis is split into two independent units, one is the CORE, your main pilotted mech, the other is the SUB-CONTROL pilotted by an AI. Pick a name for the AI and pick or roll on the table for the AIs personality.
 >

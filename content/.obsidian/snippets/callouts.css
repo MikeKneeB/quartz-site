@@ -1,0 +1,14 @@
+.callout[data-callout="chassis"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-frame;
+}
+
+.callout[data-callout="system"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-pocket-knife;
+}
+
+.callout[data-callout="module"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-circuit-board;
+}

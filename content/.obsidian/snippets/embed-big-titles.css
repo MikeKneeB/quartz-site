@@ -1,0 +1,5 @@
+.markdown-preview-view.embed-big-titles .markdown-embed-title,
+.markdown-preview-view.embed-big-titles .obsidian-metatable {
+  font-size: var(--h1-size);
+  font-style: var(--h1-style);
+}
