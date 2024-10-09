@@ -182,11 +182,24 @@ Ruined city, decaying and falling to pieces. Heron autonomous security drones in
 
 Every area, chance to encounter heg-swarm components is 1-in-2. Re-roll each hour spent.
 
+Heron drone encounters:
+
+| D6 | |
+| --- | --- |
+| 1-2 | 2 Heavy Combat Drones, 3 Defacer Drones |
+| 3-4 | 2 Heavy Combat Drones, 1 Carrier Drone & Complement |
+| 5-6 | 2 Carrier Drones & Complement |
+
+Total drone capacity:
+- 37 Defacer Drones
+- 14 Heavy Combat Drones
+- 5 Carrier Drones
+
 #### 8.1 - Outer Ruins North
 
-Area - T2//S3.
+Area - T2//S3
 
-City blocks.
+City blocks. Lost raider with a bad leg injury is holed up on top of one reasonably-intact looking skyscrapers, explosions at the base along with some heron drone parts.
 
 #### 8.2 - Outer Ruins North-East
 
@@ -196,7 +209,7 @@ Obliterated raider mechs here, being taken apart by heg-swarm worker units.
 
 #### 8.3 - Outer Ruins East
 
-Area - T2//S3
+Area - T1//S3
 
 City Blocks.
 
@@ -204,11 +217,18 @@ City Blocks.
 
 Area - T4//S5
 
-Will encounter the heg-swarm here. They will basically just keep coming. Heron security control block in this region.
+Top-level manufactury - 3 Carrier Drones, or less if more destroyed
+
+Command and control core suspended from manufactury roof.
 
 #### 8.5 - Inner Ruins
 
 Area - T2//S5
+
+Entrance to sewers here, leading down into access tunnel below the Heron Security building. The Heron reactor core is down here, and could conceivably be powered off. This would put all active drones into a stand-by state.
+
+The bottom of the crater in which the sewer entrance is found is the nest of a mega-molebear.
+
 
 ### 9 - Upper Peak
 
@@ -217,6 +237,7 @@ Long travel time to pick up the steep cliffs here, hour in mechs, probably 10 on
 ### 10 - Tunnel Entrance West
 
 West tunnel entrance, the train will be able to speed up very rapidly after getting to this point.
+
 ## Groups
 
 I started adding group "wants" to these entries, I always find individual wants easy to come up with, but this kind of explicit group goals makes things easier to pull out from a moment. It also allows me to be pretty flexible with individual NPCs within them, so they can be salted to taste.
