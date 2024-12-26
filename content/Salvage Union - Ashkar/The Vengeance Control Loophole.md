@@ -76,4 +76,13 @@ The corrective action tags are: Over-far range // 30SP Damage // Ballistic // De
 
 Massive means can only be fitted to a crawler scale vehicle or larger, Reload means it can only fire every other round in combat. Over-far range means it can basically fire anywhere on an area map, as long as the crawler can get line of sight.
 
+## Heron Drone Control Core
+The salvaging crew have recovered an old Heron Autonomous drone control core. This has been refitted, and can be used to help the salvaging team on missions.
+
+Each mission the Drone Control Core can be used up to 3 times. Each time it is used it can do one of three things:
+- Scour: Area salvage an area the Crew are currently in 3 times, ferrying the recovered salvage back to the Crawler automatically.
+- Tactical Support: Bring in 3 Heavy Combat Drones to support the team in combat.
+- Survey: Send out 3 survey drones, each of which can activate the survey scanner module on 3 separate areas on the map where the Crew currently is, or in adjacent areas they can see. Survey reports are returned after 10 minutes.
+
+
 [^1]: Don't ask, just. Don't.

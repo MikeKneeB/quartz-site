@@ -1,4 +1,5 @@
 ---
+lastSync: Thu Oct 31 2024 18:08:37 GMT+0000 (Greenwich Mean Time)
 tags:
   - lancer
 ---
@@ -19,3 +20,7 @@ Collection of abandoned freighters and shipping vessels, all lashed and welded t
 
 - Supplies are critically short and hoarding is commonplace.
 - The station's life support systems are in desperate need of repair.
+
+## Notable Locations
+- Lucky Strike - dive bar
+- Konbeni - very fancy sushi restaurant

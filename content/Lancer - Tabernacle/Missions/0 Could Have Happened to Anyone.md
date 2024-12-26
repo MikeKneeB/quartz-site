@@ -1,5 +1,4 @@
 ---
-cssclass: embed-big-titles
 tags:
   - play-report
   - lancer

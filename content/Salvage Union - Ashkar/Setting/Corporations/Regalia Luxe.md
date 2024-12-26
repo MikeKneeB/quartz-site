@@ -28,9 +28,27 @@ Twinned crowns.
 
 The IIIrd house is the current strongest house of Regalia Luxe, in control of a sizable majority of the conglomerates military tactical and espionage resources.
 
+### Butler Horace Powell
+
+High ranking butler for Lord Julius - the patriarch of the IIIrd House.
+
 ## V Torpor
 
 The Vth house currently holds primacy, with the venerable matriach Therri Torpor holding the Luxe throne.
+
+### Enscion Nor Torpor (he/him)
+
+Enscion Nor Torpor is one of the children of Therri Torpor, and is currently considered one of the most influential people within the Luxe Convocation.
+
+Nor is a tall, thin white man, with long blonde hair and blue eyes.
+
+## VI Kryve
+
+### Scion Ithaca Kryve (she/her)
+
+Scion Ithaca Kryve is the head of the bio-tech research station at the [[6 Opal Shore#5 Sapphire Facility & Spaceport|Sapphire Facility]]. She, with the help of other RL scientists, helped created the Electrophorus Cataclysm Class entity.
+
+She is a small, compact latina woman with close cropped hair and functional glasses.
 
 ## XII Eldrick
 
@@ -42,7 +60,7 @@ Anastasia Eldrick is a scion of the XIIth house. She radiates disdain for those 
 
 She has white fair skin, black straight hair, and severe features with cold blue eyes. She pilots a pearly pink modified Drop-Bear called PRIVATE PARTY.
 
-She was encountered by the party in [[4 The Caldera]]. They fought and she escaped, however her retainers were captured and taken by to [[The Vengeance Control Loophole]].
+She was encountered by the party in [[4 The Caldera]]. They fought and she escaped, however her retainers were captured and taken back to [[The Vengeance Control Loophole]].
 
 Her retainers are:
 - Handmaiden Juliana//GRANITE (she/her) - Sakura Solo//GRAVESTONE

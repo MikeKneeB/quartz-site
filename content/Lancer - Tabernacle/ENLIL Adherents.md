@@ -1,11 +1,17 @@
 ---
+lastSync: Thu Oct 31 2024 18:33:59 GMT+0000 (Greenwich Mean Time)
 tags:
   - lancer
 ---
 
-The player characters came together around an entity discovered in [[Tabernacle V - The Gilt Chain|The Gilt Chain]], which is known as ENLIL. The entity manifests as a 12 metre long black obelisk, still partially embedded in a portion of asteroid rock it was initially discovered in. It is obsidian black, and carved with grooves in geometric patterns. There are small floating sections of the black rock suspended around the entity, these are totally immobile and unmovable.
+The player characters came together around an entity discovered in [[Tabernacle V - The Gilt Chain|The Gilt Chain]], which is known as ENLIL. 
 
 After discovering the ENLIL entity William, Lonnie, and Gorn have left their previous employer [[Alzabo Extraction]], voiding their contracts and stealing company property (the survey vessel **Enemy of Perfection**). Since then they have been joined by Mi-Tenz and Yumai.
+
+# Enlil
+The entity manifests as a 12 metre long black obelisk, still partially embedded in a portion of asteroid rock it was initially discovered in. It is obsidian black, and carved with grooves in geometric patterns. There are small floating sections of the black rock suspended around the entity, these are totally immobile and unmovable.
+
+Pronouns: She/It
 
 # William Gamej
 William discovered the ENLIL entity while on a survey job for [[Alzabo Extraction]] aboard the **Enemy of Perfection**. He is now devoted to him.
@@ -13,7 +19,7 @@ William discovered the ENLIL entity while on a survey job for [[Alzabo Extractio
 | | |
 |-|-|
 |Callsign | Gilgamesh |
-|Mech | Euphrates |
+|Mech | The Lower Nile |
 |Background | NHP Specialist |
 |Pronouns | He/Him |
 

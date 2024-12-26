@@ -1,4 +1,5 @@
 ---
+lastSync: Thu Oct 31 2024 18:35:54 GMT+0000 (Greenwich Mean Time)
 tags:
   - lancer
 ---
@@ -8,6 +9,7 @@ tags:
 ## Known Representatives
 - Levin Levine (She/Her) An Experienced Harbor pilot, promoted into position of Customs Master.
 - Juniper Hollow (She/Her) Local administrator of Alzabo in the system, outgoing and public.
+- Farrah (She/Her) Tech guru, worked with [[ENLIL Adherents#Lonnie Abel|Lonnie]] & [[ENLIL Adherents#William Gamej|Bill]] in the past. Golden skin, brown eyes, brown hair, wears a smart suit.
 ## Strength
 - Focused (Goods)
 ## Detail
