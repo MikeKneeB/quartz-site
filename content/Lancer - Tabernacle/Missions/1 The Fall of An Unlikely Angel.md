@@ -7,11 +7,11 @@ tags:
 
 The fast cruiser **An Unlikely Angel** is down on the surface of the planet Cruet. Not even a minor newsline on the net, as the Tabernacle system continues to degrade from simple resource scarcity and rising hostility from the DerBoa forces.
 
-However, [[Octopotenta BioTech]] would very much like to retrieve some of their cargo, which was apparently on board. This raises the importance of this event from same-old to high priority as the Adherents are contacted to retrieve their cargo. Your contact on the OBT side is a woman named Revel Hour.
+However, [[Octopotenta BioTech]] would very much like to retrieve some of their cargo, which was apparently on board. This raises the importance of this event from same-old to high priority as the Adherents are contacted to retrieve their cargo. Your contact on the OBT side is a person named Revel Hour.
 
 The crash site is under jurisdiction of the [[Morel Central Bank]], who have moved in and already formally denied [[Octopotenta BioTech]]'s request to send in their own team. Nothing has yet been moved from **An Unlikely Angel**, as far as current intel suggests there is an advance mercenary planet-side force guarding the wreck. The main decomm and reclamation team is mobilising now from [[Baldachin Station]], but a well-placed bureaucrat has been given a rather generous anonymous gift, and they are held up.
 
-Get in past the [[Morel Central Bank]] mercenary forces, with Revel in tow, let her handle the cargo, and then get out. What could go wrong?
+Get in past the [[Morel Central Bank]] mercenary forces, with Revel in tow, let them handle the cargo, and then get out. What could go wrong?
 
 The crew has access to a small area comms shroud, to black out communications, attached to [[ENLIL Adherents#Mi-Tenz|Mi-Tenz's]] **Feline Pain**, and some single use jump jets, that could be used to descend from a high altitude (e.g. the top of a dam) rapidly and safely.
 
