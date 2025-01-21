@@ -14,3 +14,6 @@ DerBoa ship classes are named for medical vein or arteries, e.g. Jugular, Cava, 
 
 ### Bloodlapper
 Jugular-class corvette attacks the Lancers in [[0 Could Have Happened to Anyone]].
+
+### Hell of My Making
+Carotid-class Cruiser attacks the Lancers in [[1 The Fall of An Unlikely Angel]].

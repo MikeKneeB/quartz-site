@@ -4,17 +4,12 @@ tags:
   - lancer
 ---
 
-The player characters came together around an entity discovered in [[Tabernacle V - The Gilt Chain|The Gilt Chain]], which is known as ENLIL. 
+The player characters came together around an entity discovered in [[Tabernacle V - The Gilt Chain|The Gilt Chain]], which is known as [[The Anunnaki#Enlil]].
 
-After discovering the ENLIL entity William, Lonnie, and Gorn have left their previous employer [[Alzabo Extraction]], voiding their contracts and stealing company property (the survey vessel **Enemy of Perfection**). Since then they have been joined by Mi-Tenz and Yumai.
-
-# Enlil
-The entity manifests as a 12 metre long black obelisk, still partially embedded in a portion of asteroid rock it was initially discovered in. It is obsidian black, and carved with grooves in geometric patterns. There are small floating sections of the black rock suspended around the entity, these are totally immobile and unmovable.
-
-Pronouns: She/It
+After discovering the Enlil entity William, Lonnie, and Gorn have left their previous employer [[Alzabo Extraction]], voiding their contracts and stealing company property (the survey vessel **Enemy of Perfection**). Since then they have been joined by Mi-Tenz and Yumai.
 
 # William Gamej
-William discovered the ENLIL entity while on a survey job for [[Alzabo Extraction]] aboard the **Enemy of Perfection**. He is now devoted to him.
+William discovered the ENLIL entity while on a survey job for [[Alzabo Extraction]] aboard the **Enemy of Perfection**. He is now devoted to her.
 
 | | |
 |-|-|
@@ -29,7 +24,7 @@ Lonnie was working alongside William when ENLIL was discovered, as a software sp
 | | |
 |-|-|
 |Callsign | Backroad |
-|Mech | TBD |
+|Mech | Amazing Grace |
 |Background | Hacker |
 |Pronouns | He/Him |
 
@@ -65,8 +60,19 @@ Yumai is famous, starring in Omni-cast TV and Movies. He does all his own stunts
 |Background | Celebrity |
 |Pronouns | He/Him |
 
+# Autum Fall
+Drone operator working with Gorn & Bill on the **Enemy of Perfection** when the Enlil entity was discovered, and is a devoted cult member. She has manifested an NHP fragment known as Allani, which exists in a moth-shaped sarcophagus.
+
+| | |
+| - | - |
+| Callsign | Moth |
+| Mech | In Defence of My Name |
+| Background | Drone Operator |
+| Pronouns | She/Her |
+
+The **In Defence of My Name** is a large broad-shouldered humanoid mech, which has no discernible head. On the back are a set of four long curving spines that sweep backwards from the body. The body itself is made up of a series of plates, which are held together by an internal swarm of moths, visible between the plates. The neck area is an open indentation, moths flutter up and back in in weird murmuration patterns. Autumn is just in the middle of this, I guess. The moths appear to be marbled emperor moths.
+
 # NPC Adherents
 ## Crew of the Enemy of Perfection
 - Olia Moure - Pilot (she/her)
 - Marie Hon - Mechanic (she/her)
-- Autumn Fall - Drone Operator (she/her)
