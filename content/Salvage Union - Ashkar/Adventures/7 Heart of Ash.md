@@ -37,11 +37,26 @@ It's fucking windy out there, but inside it's basically fine. Outside, atmospher
 
 ### Encounters A
 
+| Roll | |
+| --- | --- |
+| 20 | Maintenance drone crew |
+| 16-19 | **INRI** prime and maintenance drone crew |
+| 11-15 | Loose meld |
+| 6-10 | Loose meld, being chased by security drones |
+| 2-5 | Security drone sweep |
+| 1 | **AGLA** prime & cohort stalking through the hallways |
+
 ### Encounters B
 
 ### Encounters C
 
 ## Locations
+
+There are 4 security clearance levels:
+- Alpha
+- Beta
+- Gamma
+- Epsilon
 
 ### 1 Dock Alpha
 
@@ -115,9 +130,9 @@ Clear docking bay.
 - West to [[#1.5 Dock Bay D]]
 
 #### 1.7 Main Elevator Room
-The main elevator here is sealed shut, heavily shut. There appears to be no obvious port to hack in.
+The main elevator here is sealed heavily shut. There appears to be no obvious port to hack in. It requires the power core at [[#11.10 Main Hall]] to be active before it can operate again.
 
-- Elevator down 
+- Elevator down [[#10.1 Top Core]]
 - West to [[#1.8 Ancillary Elevator 1]]
 - East to [[#1.9 Ancillary Elevator 2]]
 
@@ -132,7 +147,7 @@ Panels on the wall here appear to be falling off and broken. Peeling them away w
 
 Down the access tunnel is a security grate there is a terminal that can be hacked, to override the elevator security panel. There is also a service access way down to the lower struts at the base of the dock.
 
-- Elevator down to 
+- Elevator down to [[#3.1 Elevator]]
 - West to [[#1.7 Main Elevator Room]]
 
 ### 2 Security Watchpoint
@@ -142,11 +157,11 @@ The security control room has a human-scale operations room. It has a set of bod
 
 Inside the operations core are computer banks, and a sub-shard core of **Deep Indigo**.
 
-Entering the operations core without _Clearance Epsilon_ activates a laser grid, which descends from the ceiling. It is fatal to humans, and capable to causing severe damage to mech components inside the grid.
+Entering the operations core without _Clearance Alpha_ activates a laser grid, which descends from the ceiling. It is fatal to humans, and capable to causing severe damage to mech components inside the grid.
 
 **Deep Indigo** is currently asleep, but can be flash-booted at higher speed. Once awake **Deep Indigo** will activate [[#4 Manufacturing]] to build himself a new body. **Deep Indigo** will wake up fully at alert level 4.
 
-- Elevator down to 
+- Elevator down to [[#8.3 Elevator Room]]
 - East to [[#2.2 Security Drone Hangar]]
 
 #### 2.2 Security Drone Hangar
@@ -200,6 +215,8 @@ If the alert level is 3 or more the manufactury is producing sets of AR heavy co
 
 At alert level 5 or more the manufactury is producing an AR Ultra Drone, which it will complete in an hour.
 
+If the power plant in [[#11.10 Main Hall]] is repaired, it can produce things much quicker.
+
 - West to [[#3.5 Corridor]]
 - East to [[#4.2 Manufacturing Operations]]
 - South to Exterior Walkway to [[#5.2 Orrery Main Chamber]]
@@ -219,7 +236,7 @@ The manufactury can be remote overridden by security subroutines, but the securi
 
 #### 4.3 Frame Constructor
 
-The Frame Constructor is a large portion of the manufactury that is used to assemble automata. It requires _Clearance Gamma_ to open.
+The Frame Constructor is a large portion of the manufactury that is used to assemble automata. It requires _Clearance Alpha_ to open.
 
 At security level 4 or more, the Frame Constructor has started work on **Deep Indigo**'s body. Outside a broken AGLA-X frame lies heavily on the ground, clearly very damaged.
 
@@ -254,27 +271,442 @@ There is an Ultra Security Drone wired into the roof, clearly visible. It is act
 
 #### 5.4 Orrery Core
 
+The Orrery is a device to link automata minds through to an Exarch Conclave. Currently it houses the mind of **IPSOS** in an **IPSOS** frame.
+
+The **IPSOS** is carrying a security _Clearance Gamma_.
+
+The Orrery is dormant, and requires the power plant in [[#11.10 Main Hall]] to be repaired before it can operate again.
+
 - West to [[#5.2 Orrery Main Chamber]]
 
 #### 5.5 Upper Level
+
+Upper level looks down on the Orrery main chamber. Large banks of computers and operations machines can be used to control Orrery function.
 
 - Stairs down to [[#5.3 Stairs Up]]
 - Elevator up to 5 Exterior.
 
 ### 6 Far Seeing
 
+- Elevator down to 
+- East to [[#7.7 Corridor]]
+
 ### 7 Dock Beta
+
+#### 7.1 Dock Beta Control
+
+#### 7.2 Dock Bay A
+
+#### 7.3 Dock Bay B
+
+#### 7.4 Dock Bay C
+
+#### 7.5 Dock Bay D
+
+#### 7.6 Elevator Down
+
+#### 7.7 Corridor
 
 ### 8 Weapons Prime Control
 
+#### 8.1 Missile Battery
+
+This room is dominated by a huge missile battery, which can clearly ascend through the hole in the roof.
+
+- Elevator down to [[#8.3 Elevator Down]]
+
+#### 8.2 Weapons Main Room
+
+In the main weapons room is a large quantity of wrecked and ruined AR security drones. In the centre of the room is a bubble of shimmering energy, within can be seen a human figure in a glittering suit of armour, along with a pair of ultra security drones.
+
+The man in the static tear is called Balirio.
+
+The door to the south is covered in burns and scorch marks.
+
+- Stairs down to [[#8.8 Corridor]]
+- North to [[#8.3 Elevator Room]]
+- South to [[#8.4 Weapons Storage]] (barricaded)
+
+#### 8.3 Elevator Room
+
+Small elevator room.
+
+- Elevator up to [[#8.1 Missile Battery]]
+- East to [[#2.1 Security Control]]
+- South to [[#8.2 Weapons Main Room]]
+
+#### 8.4 Weapons Storage
+
+Small storage room, cramped and dark filled with broken and damaged AR technology.
+
+Four dead figures in red fatigues. One of them is carrying a device that can communicate with Balirio in stasis, and deactivate the field. They were killed by poisoning.
+
+Contains additional ammunition for the [[#8.1 Missile Battery]].
+
+- North to [[#8.2 Weapons Main Room]]
+
+#### 8.5 Engineering Bay A
+
+- East to [[#8.7 Lower Hall]] (_Clearance Gamma_ required)
+
+#### 8.6 Engineering Bay B
+
+Experimental security drone was being worked on here. The static tear is poking through the ceiling, and covering up a security grate leading to engineering A.
+
+- East to [[#8.7 Lower Hall]]
+
+#### 8.7 Lower Hall
+
+Large open hallway. Nothing in particular.
+
+- North west to [[#8.5 Engineering Bay A]]
+- South west to [[#8.6 Engineering Bay B]]
+- East to [[#8.8 Corridor]]
+
+#### 8.8 Corridor
+
+Full of bodies and wrecked security drones.
+
+At the corner, there is a security grid that activates a vicious energy weapon at the end of the corridor. It will deactivate with _Clearance Gamma_.
+
+- Interior west to [[#8.7 Lower Hall]]
+- East to [[#9]]
+- South to [[#10]]
+- Stairs up to [[#8.2 Weapons Main Room]]
+- Stairs down to [[#8.10 Servers]]
+
+#### 8.9 Deep Core Weapons Hall
+
+_Human Scale_
+
+Deep core weapons hall operations room. Main override for a number of security protocols within the system. Can retrieve security _Clearance Epsilon_ here.
+
+The mind of **Silver Anode** sits here.
+
+- South to [[#8.10 Servers]]
+
+#### 8.10 Sarcophagus Hall
+
+Set of huge sarcophagus plinths, containing automata primary minds. Protected by **ARARITA**.
+
+- North to [[#8.9 Deep Core Weapons Hall]]
+- Stairs up to [[#8.8 Corridor]]
+
 ### 9 Mortal Living
+
+#### 9.1 North Living Entrance
+
+Entrance way to the main living area.
+
+Locked with red lights around stairway down.
+
+- East to [[#11]]
+- West to [[#9.2 Living Region Ossark]]
+- Stairs down to [[#9.6 Lower Deck North]]
+
+#### 9.2 Living Region Ossark
+
+Large open ruined city. Wrecked security mechs, Automata units, and ancient armour suits.
+
+Huge bulkhead doors have closed, sealing the region of from the broken region Nourve. Red lights illuminate the bottom edge of the bulkhead doors. They can be operated from both sides, but operating them causes the integrity of this region to drop.
+
+- North to [[#9.1 North Living Entrance]]
+- South to [[#9.3 Living Region Nourve]]
+
+#### 9.3 Living Region Nourve
+
+Huge area of the city, open to the atmosphere of Ash. This region was broken when the **Heart in Repose** landed with the cause strike force. The wreck of the **Heart in Repose** sits here, along with a number of wrecked security drones and an Automata **ABRAXAS** prime.
+
+- North to [[#9.2 Living Region Ossark]]
+- South to [[#9.4 Living Region Bounty]]
+- Long drop down to [[#9.6 Lower Deck North]] or [[#9.7 Lower Deck South]]
+
+#### 9.4 Living Region Bounty
+
+Large open region of the city.
+
+In the centre, in a wrecked and rotting plaza, stands the ruined **Light of Love** locked in combat with an **AGLA** prime.
+
+Lots of wrecked security drones, a second **AGLA** prime frame, and more ancient armour.
+
+The **AGLA** prime locked in combat carries security _Clearance Gamma_.
+
+- North to [[#9.3 Living Region Nourve]]
+- South to [[#9.5 South Living Entrance]]
+
+#### 9.5 South Living Entrance
+
+South living entrance, similar to [[#9.1 North Living Entrance]]. Same locked stairs down.
+
+There is a security grid over the door to [[#8.8 Corridor]], which if activated causes [[#8 Weapons Prime Control]] to go into lockdown. It is deactivated by security _Clearance Gamma_. 
+
+- North to [[#9.4 Living Region Bounty]]
+- South to [[#8.8 Corridor]]
+- Stairs down to [[#9.7 Lower Deck South]]
+
+#### 9.6 Lower Deck North
+
+The lower deck has a large freight elevator running through it. It is a warren of buildings and cramped streets.
+
+It is open to atmosphere, due to the large tear from the damage caused by the **Heart in Repose**. There are a number of power cables and the remains of the freight elevator tracks leading between the two wrecked lower deck section.
+
+- North stairs up to [[#9.1 North Living Entrance]]
+- Gap leading to [[#9.7 Lower Deck South]] or up to [[#9.3 Living Region Nourve]]
+
+#### 9.7 Lower Deck South
+
+More cramped and close warrens. Wrecked security drones locked in combat with dormant formulate, creating large spires of silvery black metal across the region.
+
+- South stairs up to [[#9.5 South Living Entrance]]
+- Gap leading to [[#9.7 Lower Deck South]] or up to [[#9.3 Living Region Nourve]]
 
 ### 10 Main Elevator Core
 
+#### 10.1 Top Core
+
+The top elevator core room is littered with broken security drones. The north door to the exterior stairs is marked with red warning lights.
+
+- Elevator up to [[#1.7 Main Elevator Room]]
+- Elevator down to [[#10.2 Elevator Hall]]
+- Exterior stairs down to [[#10.3 Observation Corridor]]
+
+#### 10.2 Elevator Hall
+
+The lower elevator hall is bathed in green warning lights, and a green security grid surrounds the elevator. The main core is on lockdown, which can be overridden from [[#10.8 East Core Operations]] or [[#13 Operations Control]].
+
+The interior of the elevator hall has a large set of security drones up against the walls. They are active above security level 3.
+
+Both storage room doors require security _Clearance Beta_ to open.
+
+The elevator down requires security _Clearance Epsilon_ to activate.
+
+- Interior south west to [[#10.4 Storage A]]
+- Interior south east to [[#10.5 Storage B]]
+- South to [[#10.3 Observation Corridor]]
+- North to [[#10.3 Observation Corridor]]
+- Elevator down to [[#10.6 Lower Elevator Hall]]
+- Elevator up to [[#10.1 Top Core]]
+
+#### 10.3 Observation Corridor
+
+The long interior corridor wraps all around the exterior of the building, with windows outside and looking into [[#10.2 Elevator Hall]].
+
+- South west to [[#8.8 Corridor]]
+- North east to exterior walkway to [[#10.1 Top Core]]
+- Interior doors both to [[#10.2 Elevator Hall]], the south one is broken.
+
+#### 10.4 Storage A
+
+This cramped storage room is filled with large crates of processed material. The ground is covered in score marks.
+
+Shifting some of the crates around reveals a hatch leading down to [[#10.7 West Core Operations]].
+
+- North to [[#10.2 Elevator Hall]]
+
+#### 10.5 Storage B
+
+This storage hall is filled with ancient weapons, and a large quantity of dormant meld.
+
+- North to [[#10.2 Elevator Hall]]
+
+#### 10.6 Lower Elevator Hall
+
+Large open elevator hall. The elevator down requires security _Clearance Epsilon_ to activate.
+
+- West to [[#10.7 West Core Operations]]
+- East to [[#10.8 East Core Operations]]
+- Elevator down to [[#10.9 Deepest Core]]
+- Elevator up to [[#10.2 Elevator Hall]]
+
+#### 10.7 West Core Operations
+
+Operations room for the west core. 3 automata are linked together by long cables, and to the computer core here. At alert level 5 or more, the 3 automata are loose. They will also wake up if disturbed.
+
+There appears to be bits of meld/formulate on the south corner of the room. Small traces, which if disturbed will flow through the walls and cracks.
+
+- East to [[#10.6 Lower Elevator Hall]]
+
+#### 10.8 East Core Operations
+
+This is the main core security and operations room. It is filled with dormant (or awake on alert level 5 or more) ultra security drones.
+
+The control banks here can clear the security lockdown of the main core.
+
+There appears to be bits of meld/formulate on the south corner of the room. Small traces, which if disturbed will flow through the walls and cracks.
+
+- West to [[#10.6 Lower Elevator Hall]]
+- East to [[#12 Formulate Control]]
+
+#### 10.9 Deepest Core
+
+The deepest elevator core is on full bolt lockdown. The elevator will go no further until the security lockdown is disengaged and the bolt controls in [[#10.12 Deep Core South]] are disengaged.
+
+- North to [[#10.10 Deep Core North]]
+- Elevator up to [[#10.6 Lower Elevator Hall]]
+- Elevator down (bolted) to ???
+
+#### 10.10 Deep Core North
+
+The north deep core room is guarded by a wounded ???
+
+- West to [[#10.11 Deep Core West]]
+- South to [[#10.9 Deepest Core]]
+
+#### 10.11 Deep Core West
+
+In this room a green security grid sits across the room, and vicious energy burns line the walls and floor. If activated, energy projectors in the ceiling vaporise the contents of the room.
+
+These are deactivated with security _Clearance Epsilon_.
+
+- North to [[#10.10 Deep Core North]]
+- South to [[#10.12 Deep Core South]]
+
+#### 10.12 Deep Core South
+
+In this room the bolt disengage controls are found. The ground is littered with wrecked parts and long-mummified corpses.
+
+The ceiling is inky metal black, and within is a gigantic meld behemoth.
+
+- West to [[#10.11 Deep Core West]]
+
 ### 11 Processing Hall
+
+#### 11.1 North West Corridor
+
+Long corridor, broken and battered machines sit throughout. Baroque, filled with statues on plinths. One of the statues is a **NOX** prime.
+
+- Stairs down to [[#11.10 Main Hall]]
+- South to [[#11.8 Elevator Room]]
+- North east to [[#11.2 North Corridor]]
+- East to [[#11.9 Columns]]
+
+#### 11.2 North Corridor
+
+Long corridor, broken viewing window on east side lets in storms from the main hall.
+
+- Elevator up to [[#5.2 Orrery Main Chamber]]
+- West to [[#11.1 North West Corridor]]
+- East to [[#11.3 North East Corridor]]
+
+#### 11.3 North East Corridor
+
+Security grid over door to [[#11.4 Main Processing Control]], deactivated by security _Clearance Beta_.
+
+- Elevator up to [[#6 Far Seeing]]
+- West to [[#11.2 North Corridor]]
+- South to [[#11.4 Main Processing Control]]
+
+#### 11.4 Main Processing Control
+
+Main processing control centre, from here the central power plant can be fully deactivated through the emergency stop.
+
+Can hear sounds of crashing and destruction from the south door.
+
+- North to [[#11.3 North East Corridor]]
+- South to [[#11.5 South East Corridor]]
+
+#### 11.5 South East Corridor
+
+Security drones are going haywire in this room. Security grid over north door is blinking, fritzing out.
+
+- Stairs down to [[#11.10 Main Hall]]
+- West to [[#11.6 South Corridor]]
+- North to [[#11.4 Main Processing Control]]
+
+#### 11.6 South Corridor
+
+Large broken corridor, wrecked debris leading down to the floor of the main hall. Exposed to the power surge storm from the main power plant.
+
+- West to [[#11.7 South West Corridor]]
+- Down to [[#11.10 Main Hall]]
+- East to [[#11.5 South East Corridor]]
+- North to [[#11.9 Columns]]
+
+#### 11.7 South West Corridor
+
+Small corner corridor.
+
+- North to [[#11.8 Elevator Room]]
+- East to [[#11.6 South Corridor]]
+
+#### 11.8 Elevator Room
+
+Elevator room leading up to [[#3 Depot]]. 
+
+- North to [[#11.1 North West Corridor]]
+- South to [[#11.7 South West Corridor]]
+- Elevator up to [[#3.2 To Processing]]
+
+#### 11.9 Columns
+
+Large set of columns suspended over the main processing hall. 
+
+- NE column is clearly badly damaged.
+- SE column has blinking security field over it, and also override controls to shut down the power plant.
+- SW column has wrecked security drone crashed into it with _Clearance Alpha_ in the hull.
+
+- Walkway west to [[#11.1 North West Corridor]]
+- Walkway south to [[#11.6 South Corridor]]
+
+#### 11.10 Main Hall
+
+Large main open hall, split into grid sections. Huge manufacturing plant, dominated by massive power generator in centre.
+
+The power generator is currently going haywire, and is causing large electrical storms in the gigantic room.
+
+Exploring each tile takes 10 mins.
+
+- 1A: Stairs up to [[#11.1 North West Corridor]]
+- 2C: Small group of ancient armour clearly made last stand here.
+- 3A: Stairs down to [[#12 Formulate Control]]
+- 3C: Power generator, broken, requires fixing.
+- 3E: Stairs down to [[#12 Formulate Control]]
+- 4D: Wrecked security drones in pile around base of column, inside the mound is a lure device.
+- 4E: Hole in ceiling leads up to [[#11.4 Main Processing Control]]
+- 5E: Stairs up to [[#11.5 South East Corridor]]
 
 ### 12 Formulate Control
 
 ### 13 Operations Control
 
 ### 14 Memory Core
+
+## Groups
+
+### Argent Republic
+
+#### Light Security Drone
+
+
+#### Heavy Security Drone
+- 34 SP
+- 2x Armour Plating
+- Firewall
+- 
+
+#### Ultra Security Drone
+- 64 SP
+- 3x Armour Plating
+- Aggressive Security subroutines (firewall w/ +d10)
+- Wide array LAMS (LAMS but can affect allies in close range)
+- Massive Clamps 7SP roll and succeed or be pinned.
+- Pile Bunker, can only be used on turn USD did not move, 10SP or 20SP to pinned target.
+- Laser array 7SP multi-attack (2) medium range
+
+#### New Frames
+
+##### AGLA Prime
+
+> [!chassis]
+> ## AGLA Prime
+> The AGLA prime war-frame is an imposing statuesque gold bipedal body with four arms. They typically have finely carved face-plates. As battle rages their human-like sculpted body plates begin to petal open to vent heat, revealing the fire raging within.
+> 
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 62 | 18 | 12 | 24 | 5 | 6 | A | 23 |
+>
+> #### Chassis Rules
+> - **Eye of Heaven's Protector**: The first time each round the AGLA prime is attacked, if it has any melee weapons equipped it can reduce the damage of that attack to 0.
+>  - **Release First Shackle**: At 41 or less SP the AGLA scores a 'Nailed-It' result on attack rolls on a 18-20.
+> - **Release Second Shackle**: At 20 or less SP the AGLA automatically succeeds on all heat checks. In addition it can move an additional range band every turn.
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
