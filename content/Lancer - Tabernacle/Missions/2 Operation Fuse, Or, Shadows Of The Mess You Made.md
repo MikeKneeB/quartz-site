@@ -25,7 +25,7 @@ The plexiglass floor of the ship illuminates with a view of the area below.
 
 ![[278_indigo.jpeg]]
 
-There are several areas that appear suitable for landing. While the explosive drop pod is designed to cause a distraction, it's not clear how effective this might be. Several areas are mildly hidden by smoke from this distance, which might work in favour of the insertion team. They decide to prioritise disabling the defence emplacements as fast as possible, inserting at position X.
+There are several areas that appear suitable for landing. While the explosive drop pod is designed to cause a distraction, it's not clear how effective this might be. Several areas are mildly hidden by smoke from this distance, which might work in favour of the insertion team. They decide to prioritise disabling the defence emplacements as fast as possible, inserting to the west of position 3 behind the gatehouse buildings.
 
 The team suit up and load into their pods. [[ENLIL Adherents#Gorn Tyburn|Gorn]] (whose player is away for the first combat session) appears to be having a little trouble fitting his gigantic mech into the pod and is delayed - but one imagines the dynamic entry will be exactly Gorn's style.
 

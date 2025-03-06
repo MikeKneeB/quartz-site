@@ -11,13 +11,15 @@ The Union presence in the system is cut off from the wider galaxy, but still pre
 
 ## Biography
 
-Ben Kilmer (he/him) is a Union investigator, a detective. Union's "policing" is fairly avant-garde compared to most modern real-world organisations, but they still have use of detectives to investigate crimes. As part of the Union Department of Justice and Human Rights (DoJ/HR), his reach is long and his remit broad. The New Division knew of the Derboa Empire long before recent events, but it's only now that this has become exceedingly important.
+Ben Kilmer (he/him) is a Union investigator, a detective. Union's "policing" is fairly avant-garde compared to most modern real-world organisations, but they still have use of detectives to investigate crimes. As part of the Union Department of Justice and Human Rights (DoJ/HR), his reach is long and his remit broad. The New Division knew of the [[DerBoa Empire]] long before recent events, but it's only now that this has become exceedingly important.
 
 Starting as part of the Universe-Building Mission for the sector, Kilmer's assignment over the last six months has been linked to the [[Gate Crisis]] - as the only official investigator in the system, he was the finest and nearest Union detective available. Most other Union DoJ staff were either outside the system at the time or at the Gate when the Crisis occurred.
 
-Up until recently, he has been working alone, with a powerful mech of his own called the Rector v8.03. Unfortunately, Ben's mech systems and repair facilities were recently hacked by an unknown person or persons, and the Rector's been out of action since. As such, he has had to call upon the [[ENLIL Adherents]] in order to advance his inquiries as they have now come to a head.
+Ben is a figure whose emphasis on results leads to behaviour on the borders of acceptability within Union regulations. While the DoJ/HR is normally treated with distaste by corporations, on the galactic fringes, it's downright hostile. With corporations, it is only the threat of economic sanctions that causes them not to do harm to DoJ representatives. With everyone else, it ranges from fear to lead and lasers. As such, Ben's often had to cut deals he'd rather avoid and make bargains he can't always immediately afford. All in the name of progress, of course - the glowing beacon of Union is sometimes dimmer when you're this far out and away.
 
-It's been rumoured that the Gate Crisis was something actioned by the [[DerBoa Empire]] for weeks - the coincidences of scouting forces being sighted a month or so ago and engagements with DerBoa outrunners reported in the local net were too suspicious not to be directly linked.
+Up until recently, Kilmer has functionally been working alone, with a powerful mech of his own named the Rector v8.03 (supported by his silent comp/con unit named Vance). Unfortunately, Ben's mech systems and repair facilities were recently hacked by an unknown person or persons, and the Rector's been out of action since. While he has a retinue of reliable staff, they're not mercenaries. As such, he has had to call upon the [[ENLIL Adherents]] in order to advance his inquiries as they have now come to a head. 
+
+It's been rumoured that the Gate Crisis was something actioned by the DerBoa Empire for weeks - the coincidences of scouting forces being sighted a month or so ago and engagements with DerBoa outrunners reported in the local net were too suspicious not to be directly linked.
 
 Ben seems confident there is a link, but seems to fall short of confirming this - because he needs to close his cases before he can make broad statements confirming any allegations.
 
