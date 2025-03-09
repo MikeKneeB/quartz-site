@@ -55,7 +55,7 @@ Agreeing that the turret is a good idea, [[ENLIL Adherents#Mi-Tenz|Mi-Tenz]] mak
 
 The fight develops - [[ENLIL Adherents#Yumai|Yumai's]] mech has been retooled to focus on invisibility and map control, and he darts to the flanks, scanning for intelligence on **So Long To The Headstrong** as he passes, learning of the power of its enormous hammer and its self-destruct protocols. Spotting its low E-Defence, [[ENLIL Adherents#Yumai|Yumai]] transmits this information to [[ENLIL Adherents#Lonnie Abel|Lonnie]] and begins waging psychological warfare on the Demolisher[^1], who simply responds by radio: "You do know my mech's name, right?"
 
-In that moment, [[ENLIL Adherents#Lonnie Abel|Lonnie's]] Goblin, the **Gob Knobbler**, slinks off towards the nearer turret, hacking the Demolisher unimpeded. Meanwhile, the **[[ENLIL Adherents#Mi-Tenz|Feline Pain]]*** and **[[ENLIL Adherents#Autumn Fall|In Defence Of My Name]]*** are beset by fire - the **In The Hot Hot Rays** is a dangerous defender. **So Long To The Headstrong** groans with mechanical impotence as it tries to head towards the fight, slow and steady, its internals warming up.
+In that moment, [[ENLIL Adherents#Lonnie Abel|Lonnie's]] Goblin, the **Gob Knobbler**, slinks off towards the nearer turret, hacking the Demolisher unimpeded. Meanwhile, the **[[ENLIL Adherents#Mi-Tenz|Feline Pain]]** and **[[ENLIL Adherents#Autumn Fall|In Defence Of My Name]]** are beset by fire - the **In The Hot Hot Rays** is a dangerous defender. **So Long To The Headstrong** groans with mechanical impotence as it tries to head towards the fight, slow and steady, its internals warming up.
 
 The **Anyone Who's Anyone** decides to try and flank, making for the same turret that [[ENLIL Adherents#Lonnie Abel|Lonnie's]] after. It's a close call - [[ENLIL Adherents#Lonnie Abel|Lonnie]] in hiding manages to fire off a few rockets before cat-and-mousing with the eagle-like Ace around the turret.
 
@@ -86,13 +86,49 @@ The team congratulates itself on a job well done when a robot hand grabs the **C
 The **[[ENLIL Adherents#Yumai|Careless Whisper]]** grinds to a halt - it has mercifully managed to take about the minimum damage it is possible to take from such a close range mech explosion, and finally the team can truly breathe as silence falls over the battlefield.
 
 Battle report:
- - Yumai - **Careless Whisper** - Minor damage. 1 enemy kill, 4 enemy assists.
- - Lonnie - **Gob Knobbler** - Structure damage. 6 enemy assists, 1 enemy capture.
-- Gorn - **Cold World** - Structure damage. 2 enemies killed, 2 enemy assists.
+- Yumai - **Careless Whisper** - Minor damage. 1 enemy kill, 4 enemy assists.
+- Lonnie - **Gob Knobbler** - Structure damage. 6 enemy assists, 1 enemy capture.
+- Gorn - **Cruel World** - Structure damage. 2 enemies killed, 2 enemy assists.
 - Autumn - **In Defence Of My Name** - Structure damage. 2 enemies killed, 2 enemy assists.
 - Mi-Tenz - **Feline Pain** - Structure damage. 3 enemies killed, 1 enemy assist, 1 enemy routed.
 
+# Quiet Houses
 
+Now that the dust has settled and [[ENLIL Adherents#Yumai|Yumai]] has picked himself out of his crater, the team can tend to their wounds. Deactivating the Icicle Tusk in fairly good condition means that the squad can salvage it in short order - though it is already a fairly scrappy looking giant. They scrounge two repairs' worth of viable scrap and set to work fixing up **[[ENLIL Adherents#Lonnie Abel|Gob Knobbler]]**.
+
+They also um and err over what to do with their captive, who remains out cold. They settle on shoving Nikolai into a shipping container and flattening the ends shut - he'll keep til later.
+
+While [[ENLIL Adherents#Lonnie Abel|Lonnie]] finishes his repairs, the others poke around and examine the wreckages. These are pretty rough and ready mechs - the escaped **Anyone Who's Anyone** was the only military-looking unit among them. They're not sure whether this means reinforcements are inbound, but their objective is still to clear the base.
+
+The group head towards the barracks area, coming across the remains of a battlefield days old. There are corpses everywhere, mostly burned almost to cinders, with a few unmarked bodies scattered amongst them in rough work clothing and protection. The buildings here are in really bad shape - some of them are even still on fire, with burning chemicals trailed across them leaching long-lived incendiary phosphorous into the thin atmosphere.
+
+The team double check their map - the most likely position for enemies would be inside the inner compound, and there's only one obvious entrance, the gate. However, [[ENLIL Adherents#Gorn Tyburn|Gorn]] has a much more direct approach in mind, hefting his mech drill. With three successful rolls to create a new entry point, the group moving directly from position 5 to area 7 on the map above - in relative stealth and in good time. This lets them set up behind cover, out of line of sight and with excellent information on their next battle, as their sensors begin passively registering new enemies:
+
+- **Sun Giant**, an elite tier 2 Pyro, seeping hot white incendiary chemicals from between ramshackle plating, piloted by Jonathan Smoky[^5] (he/him)
+- **Drops In The River**, a veteran tier 2 Bombard, tucked away behind a fuelling array building, piloted by Blaisse Arthurs (she/her)
+- **English House**, another enormous tier 2 Goliath veteran, piloted by The Fourteenth Man (he/him)
+- **Mykonos**, an industrial tier 2 Bastion piloted by veteran Sue Annais (she/her)
+- **Innocent Son**, a sleek tier 2 Scout piloted by Victor Money (he/him)
+
+In the area of battle is one missile battery - the team are keen to get hold of this, but it's on the other side of the field with three enemies in their way. There are also the three massive fuel tankers on their left - they're spaced evenly and the furthest of them is still lightly on fire from the remains of their drop pod. It's not clear how much damage has been done - scanning later might give them that information, but they all seem like they have fairly good structural integrity, still.
+
+[[ENLIL Adherents#Lonnie Abel|Lonnie]] activates his core ability - attaching his mech to [[ENLIL Adherents#Yumai|Yumai]]'s, figuring the invisibility from the **[[ENLIL Adherents#Yumai|Careless Whisper]]**'s core ability would be put to good use here. They stack up, rack their guns and all hell breaks loose.
+
+# Ragged Wood
+
+Normally **Innocent Son**, with its viper speed, would act first, but with their ambush setup, the team goes first. [[ENLIL Adherents#Gorn Tyburn|Gorn]] charges in, grappling the Goliath, Fomorian frame and knitted synth-muscles straining to keep the monster in check. The scout immediately darts past, drawing visual attention to what appears to be a small, person-sized device next to **English House**. It's not yet clear what this is - so Yumai and Lonnie roll into action, scanning it.
+
+It's a locator beacon.
+
+Worse still, it looks like it's been going for about half an hour - roughly when the team made planetfall. [[ENLIL Adherents#Yumai|Yumai]] takes aim with his veil rifle, covering Gorn and hitting **English House** and **Sun Giant** and the beacon. The beacon is destroyed essentially immediately, but the damage is already done - whatever it's alerted is probably already on its way. [[ENLIL Adherents#Lonnie Abel|Lonnie]] starts hacking **English House**, keen to keep up the team's advantage before **[[ENLIL Adherents#Yumai|Careless Whisper]]** hides and manoeuvres back around the administration building for cover, falling back to [[ENLIL Adherents#Mi-Tenz|Mi Tenz]]' position.
+
+This turns out to be a mistake.
+
+The **Innocent Son** radios into the **Drops In The River** - the scout's Sight is completely unaffected by [[ENLIL Adherents#Yumai|Yumai]]'s attempt at stealth. **Mykonos** takes aim at the coordinates radioed in and fires a huge arcing round.
+
+**[[ENLIL Adherents#Lonnie Abel|Gob Knobbler]]** and **[[ENLIL Adherents#Yumai|Careless Whisper]]** are invisible here, and this saves [[ENLIL Adherents#Yumai|Yumai]] - but not his passenger. Lonnie takes the full brunt of the explosion, taking 13 damage and losing two structure immediately. Worse still, [[ENLIL Adherents#Mi-Tenz|Mi Tenz]], who hadn't even been *spotted* yet, is in the blast radius, and the **[[ENLIL Adherents#Mi-Tenz|Feline Pain]]** feels 13 points' worth of pain, too. She's livid with [[ENLIL Adherents#Yumai|Yumai]] - this was a massive unforced error[^6].
+
+The **[[ENLIL Adherents#Mi-Tenz|Feline Pain]]** takes its move, attacking the **Sun Giant**. Its armour shrugs off most of the damage but this isn't insignificant, prompting a retaliatory area attack to begin heating up the **[[ENLIL Adherents#Mi-Tenz|Feline Pain]]** and [[ENLIL Adherents#Gorn Tyburn|Cruel World]] while the **Mykonos** begins to close in.
 
 [^1]: Orator is a hilarious talent, but Yumai opts to use this to play various videos that could pass for the destruction of the mech in combat.
 
@@ -101,3 +137,7 @@ Battle report:
 [^3]: insert gif of BT-7274 giving a thumbs up here
 
 [^4]: Genuinely could not make up that the arrogant Yumai forgot the self-destruct sequence here. Truly cinema.
+
+[^5]: Love you, honeybear.
+
+[^6]: This was such a punishing attack - **Drops In The River** had cluster munitions, which I only realised on the subsequent turn. Watching Lonnie's player's face falter as both the structure he'd *just* put back on his mech disappear was heartbreaking, but that's how the dice roll, sometimes.
