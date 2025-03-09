@@ -14,12 +14,12 @@ Musing over options to maximise their capabilities, they convince Velejo to help
 
 Assets available:
 
-[[ENLIL Adherents#Lonnie Abel|LONNIE ABEL]], piloting the **Gob Knobbler** Goblin frame: None deployed
-[[ENLIL Adherents#Gorn Tyburn|GORN TYBURN]], piloting the **Cold World** Vlad frame: +2 Heat cap modification
-[[ENLIL Adherents#Mi-Tenz|MI-TENZ]], piloting the **Feline Pain** Mourning Cloak frame: Control cuff (mech-activated controls can be activated at range using Ferrous Lash)
-[[ENLIL Adherents#Yumai|YUMAI]], piloting the **Careless Whisper** Metalmark frame: Union-chartered IPS-N orbital dropship "IPS-N 2900 Coracle"
-[[ENLIL Adherents#Autumn Fall|AUTUMN FALL]], piloting the **In Defence Of My Name** Balor frame: Alzabo public manifest with omail addresses (+personal weapon accuracy modification)
-GROUP: Explosive-rigged drop pod
+ - [[ENLIL Adherents#Lonnie Abel|LONNIE ABEL]], piloting the **Gob Knobbler** Goblin frame: None deployed
+- [[ENLIL Adherents#Gorn Tyburn|GORN TYBURN]], piloting the **Cold World** Vlad frame: +2 Heat cap modification
+- [[ENLIL Adherents#Mi-Tenz|MI-TENZ]], piloting the **Feline Pain** Mourning Cloak frame: Control cuff (mech-activated controls can be activated at range using Ferrous Lash)
+- [[ENLIL Adherents#Yumai|YUMAI]], piloting the **Careless Whisper** Metalmark frame: Union-chartered IPS-N orbital dropship "IPS-N 2900 Coracle"
+- [[ENLIL Adherents#Autumn Fall|AUTUMN FALL]], piloting the **In Defence Of My Name** Balor frame: Alzabo public manifest with omail addresses (+personal weapon accuracy modification)
+- GROUP: Explosive-rigged drop pod
 
 The plexiglass floor of the ship illuminates with a view of the area below.
 
@@ -86,11 +86,11 @@ The team congratulates itself on a job well done when a robot hand grabs the **C
 The **[[ENLIL Adherents#Yumai|Careless Whisper]]** grinds to a halt - it has mercifully managed to take about the minimum damage it is possible to take from such a close range mech explosion, and finally the team can truly breathe as silence falls over the battlefield.
 
 Battle report:
-Yumai - **Careless Whisper** - Minor damage. 1 enemy kill, 4 enemy assists.
-Lonnie - **Gob Knobbler** - Structure damage. 6 enemy assists, 1 enemy capture.
-Gorn - **Cold World** - Structure damage. 2 enemies killed, 2 enemy assists.
-Autumn - **In Defence Of My Name** - Structure damage. 2 enemies killed, 2 enemy assists.
-Mi-Tenz - **Feline Pain** - Structure damage. 3 enemies killed, 1 enemy assist, 1 enemy routed.
+ - Yumai - **Careless Whisper** - Minor damage. 1 enemy kill, 4 enemy assists.
+ - Lonnie - **Gob Knobbler** - Structure damage. 6 enemy assists, 1 enemy capture.
+- Gorn - **Cold World** - Structure damage. 2 enemies killed, 2 enemy assists.
+- Autumn - **In Defence Of My Name** - Structure damage. 2 enemies killed, 2 enemy assists.
+- Mi-Tenz - **Feline Pain** - Structure damage. 3 enemies killed, 1 enemy assist, 1 enemy routed.
 
 
 
