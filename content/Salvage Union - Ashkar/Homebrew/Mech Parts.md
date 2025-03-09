@@ -21,6 +21,21 @@ tags:
 ^7760fc
 
 > [!chassis]
+> ## INRI Prime
+> The INRI Prime pattern body looks like a gigantic floating octopus, coruscating with red lightning. It has 8 long tentacle-like arms, coming out from a flattened oblong body housing the main automata core and sensor arrays. These units are often fitted with the equivalent of Tesla Coils, for offence and support purposes.
+> 
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 44 | 22 | 11 | 16 | 4 | 6 | A | 8 |
+> 
+> #### Chassis Rules
+>  - **Integrated Hover Locomotion System**
+> - **Integrated Prawn Sifter**
+> - **Tactical Support Field**: When an ally takes or deals damage the INRI prime can take a reaction to spend any amount of EP to reduce or increase the damage by the amount of EP spent respectively.
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+
+
+> [!chassis]
 > ## AGLA
 > The AGLA war-frame is an imposing statuesque gold bipedal body with four arms. They typically have finely carved face-plates. As battle rages their human-like sculpted body plates begin to petal open to vent heat, revealing the fire raging within.
 > 
@@ -36,6 +51,20 @@ tags:
 ^57d4eb
 
 > [!chassis]
+> ## AGLA Prime
+> The AGLA prime war-frame is an imposing statuesque gold bipedal body with four arms. They typically have finely carved face-plates. As battle rages their human-like sculpted body plates begin to petal open to vent heat, revealing the fire raging within.
+> 
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 62 | 18 | 12 | 24 | 5 | 6 | A | 23 |
+>
+> #### Chassis Rules
+> - **Eye of Heaven's Protector**: The first time each round the AGLA prime is attacked, if it has any melee weapons equipped it forces the attack to miss (regardless of any other rules that might cause the attack to hit).
+>  - **Release First Shackle**: At 41 or less SP the AGLA scores a 'Nailed-It' result on attack rolls on a 18-20.
+> - **Release Second Shackle**: At 20 or less SP the AGLA automatically succeeds on all heat checks. In addition it can move an additional range band every turn.
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+
+> [!chassis]
 > ## NOX
 > The NOX pattern is a flash of black on the battlefield, and a blast of energy weapon fire to the back. Rarely seen, even more rarely hit. These are narrow bipedal mechs, with angular armour plates for a low radar profile.
 > 
@@ -46,6 +75,21 @@ tags:
 > #### Chassis Rules
 >  - **Blink Field**: As a reaction, after being attacked the NOX can immediately move 1 range band as a teleport once per round. If this takes it out of range of the attack, the attack fails to land.
 > - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+
+> [!chassis]
+> ## NOX Prime
+> The NOX Prime pattern is a flash of black on the battlefield, and a blast of energy weapon fire to the back. Rarely seen, even more rarely hit. These are narrow bipedal mechs, with angular armour plates for a low radar profile.
+> 
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 39 | 13 | 12 | 17 | 6 | 6 | A | 10 |
+> 
+> #### Chassis Rules
+>  - **Advanced Blink Field**: As a reaction, after being attacked the NOX Prime can immediately move 1 range band as a teleport once per round. If this takes it out of range of the attack, the attack fails to land. In addition, on its turn the NOX Prime can teleport when it moves, and move up to two range bands when it does so.
+>  - **Shadow Profile**: Guided & Targeter weapons can't hit the NOX Prime.
+>  - **Death of Kings**: Attacks made against unaware targets automatically hit.
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+
 
 > [!chassis]
 > ## ABRAXAS
@@ -69,6 +113,56 @@ tags:
 > > - **Ablative Soul**: If an ABRAX drone is within close range when the ABRAXAS is damaged, that damage can be given to the ABRAX drone instead. Damage does not spill over from the drone to the main ABRAXAS unit.
 > > - **Integrated Hover Locomotion System**
 >  > - **Eerie**: This drone moves unnervingly, looks freaky, and is bound to attract attention.
+
+> [!chassis]
+> ## ABRAXAS Prime
+> The ABRAXAS Prime is a huge floating sphere, with a large sensor array on the front. It has three large spikes protruding from the top of the sphere, which are the detachable ABRAX drones.
+>
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 20 | 22 | 15 | 14 | 7 | 6 | A | 17 |
+> 
+> #### Chassis Rules
+>  - **Shattered Soul**: The ABRAXAS Prime Controls 5 ABRAX drones, which can move (but not take any actions) on the ABRAXAS' turn. Any hack or energy weapon the ABRAXAS is equipped with can be projected through the ABRAX drones. Any ongoing area effects are always projected from the ABRAX drones as well as the ABRAXAS. The ABRAX drones cannot move or be operated more than long range away from the ABRAXAS.
+>  - **Integrated Hover Locomotion System**
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+> > [!chassis] ABRAX Drone
+> > | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> > |---|---|---|---|---|---|---|---|
+> > | 12 | - | - | - | - | - | 4 | - |
+> > 
+> > #### Chassis Rules
+> > - **Shard**: ABRAX drones can never act independently of the ABRAXAS, nor can they take any action other than moving.
+> > - **Ablative Soul**: If an ABRAX drone is within close range when the ABRAXAS is damaged, that damage can be given to the ABRAX drone instead. Damage does not spill over from the drone to the main ABRAXAS unit.
+> > - **Integrated Hover Locomotion System**
+>  > - **Eerie**: This drone moves unnervingly, looks freaky, and is bound to attract attention.
+
+> [!chassis]
+> ## DEEP INDIGO
+> The body of Deep Indigo is a massive hulking humanoid mech.
+>
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 82 | 29 | 30 | 27 | 8 | 6 | A | 44 |
+> 
+> #### Chassis Rules
+> - **Divine Corpse**: Without the Deep Indigo Core module this frame loses X.
+> - **Divine Strike**: After hitting with a melee attack, the struck mech or creature cannot move until the end of its next turn.
+> - **Divine Gaze**: After hitting with a ranged attack, the struck mech or creature cannot see further than close range until the end of its next turn.
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+
+> [!chassis]
+> ## IPSOS Prime
+> Ipsos is a hacking/control type mech, taking the form of a large spider with a humanoid top half.
+>
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 37 | 30 | 16 | 21 | 9 | 6 | A | 19 |
+> 
+> #### Chassis Rules
+> - **Quick Study**: After the IPSOS is hit with any hacking system or action, roll. On a partial success, the hack has no effect. On a full success the hack has no effect and the IPSOS learns how to do this.
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+
 
 # Systems
 
@@ -198,6 +292,19 @@ tags:
 > | TL | Sl | SV |
 > |---|---|---|
 > | 5 | 1 | 1 |
+>
+> `Passive`
+
+> [!module]
+> ## Deep Indigo Core
+>
+> Partial soul of Deep Indigo.
+>
+> Allows a mech to take 3 titanic actions. A normal turn action costs 1 action, moving a range band costs 1, any turn action costing EP or gaining heat costs 2 actions.
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | A | 1 | ? |
 >
 > `Passive`
 

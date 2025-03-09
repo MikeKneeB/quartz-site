@@ -238,7 +238,7 @@ The manufactury can be remote overridden by security subroutines, but the securi
 
 The Frame Constructor is a large portion of the manufactury that is used to assemble automata. It requires _Clearance Alpha_ to open.
 
-At security level 4 or more, the Frame Constructor has started work on **Deep Indigo**'s body. Outside a broken AGLA-X frame lies heavily on the ground, clearly very damaged.
+At security level 4 or more, the Frame Constructor has started work on **Deep Indigo**'s body. Outside a broken AGLA-Prime frame lies heavily on the ground, clearly very damaged.
 
 **Deep Indigo**'s body completes construction after 10 hours.
 
@@ -271,7 +271,7 @@ There is an Ultra Security Drone wired into the roof, clearly visible. It is act
 
 #### 5.4 Orrery Core
 
-The Orrery is a device to link automata minds through to an Exarch Conclave. Currently it houses the mind of **IPSOS** in an **IPSOS** frame.
+The Orrery is a device to link automata minds through to an Exarch Conclave. Currently it houses the mind of **IPSOS** in an **IPSOS** Prime frame.
 
 The **IPSOS** is carrying a security _Clearance Gamma_.
 
@@ -676,19 +676,29 @@ Exploring each tile takes 10 mins.
 ### Argent Republic
 
 #### Light Security Drone
+- 7 SP
+- Monomolecular blade
+- CACB Laser
 
+#### Medium Security Drone
+- 22 SP
+- Ion Cannon
+- Multi-function repair arm
+- Targeting Splice: when missile or targetter attacks ROLL on a success, retarget the attack onto a new target of the attack. On a partial, the attack misses.
 
 #### Heavy Security Drone
 - 34 SP
 - 2x Armour Plating
 - Firewall
-- 
+- Scatter Field - The HSD and allies within close range take half damage from all sources outside of close range of the HSD
+- Plasma spear - Close range 6SP // Overheat // Burn 3 OR Medium range 4SP // Overheat // Burn 1
+- Nanofibre net launcher
 
 #### Ultra Security Drone
 - 64 SP
 - 3x Armour Plating
 - Aggressive Security subroutines (firewall w/ +d10)
-- Wide array LAMS (LAMS but can affect allies in close range)
+- LAMS
 - Massive Clamps 7SP roll and succeed or be pinned.
 - Pile Bunker, can only be used on turn USD did not move, 10SP or 20SP to pinned target.
 - Laser array 7SP multi-attack (2) medium range
@@ -697,16 +707,3 @@ Exploring each tile takes 10 mins.
 
 ##### AGLA Prime
 
-> [!chassis]
-> ## AGLA Prime
-> The AGLA prime war-frame is an imposing statuesque gold bipedal body with four arms. They typically have finely carved face-plates. As battle rages their human-like sculpted body plates begin to petal open to vent heat, revealing the fire raging within.
-> 
-> | SP | EP | HC | SyS | MoS | CC | TL | SV |
-> |---|---|---|---|---|---|---|---|
-> | 62 | 18 | 12 | 24 | 5 | 6 | A | 23 |
->
-> #### Chassis Rules
-> - **Eye of Heaven's Protector**: The first time each round the AGLA prime is attacked, if it has any melee weapons equipped it can reduce the damage of that attack to 0.
->  - **Release First Shackle**: At 41 or less SP the AGLA scores a 'Nailed-It' result on attack rolls on a 18-20.
-> - **Release Second Shackle**: At 20 or less SP the AGLA automatically succeeds on all heat checks. In addition it can move an additional range band every turn.
-> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
