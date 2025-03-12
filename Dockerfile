@@ -8,7 +8,7 @@ RUN git clone https://github.com/jackyzha0/quartz.git
 
 WORKDIR /work/quartz
 
-RUN git checkout v4.3.1
+RUN git checkout v4.4.0
 
 RUN npm install
 # RUN npx quartz update
