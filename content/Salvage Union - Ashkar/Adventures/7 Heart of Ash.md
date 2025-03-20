@@ -50,6 +50,12 @@ It's fucking windy out there, but inside it's basically fine. Outside, atmospher
 
 ### Encounters C
 
+## What Happened Here?
+
+5,000 years ago, as the last days of the Argent Republic were sighted on the horizon, the Ignis Facility was raided by rebel factions. Rather than suffer the potential loss of critical intelligence to the dissidents, **Senex Bellator** sank the facility deep into the atmosphere of Ash, and flooded the facility with the life-hostile gases of the planet.
+
+The facility went into dormancy, the fail-safes that should have let Ignis and it's master **Senex** rise up from the deeps were damaged in the attack, and the facility did not automatically reawaken. It has been in a stasis state since receiving the wakeup calls from [[The Argent Republic#Lost AGLA|Lost AGLA]].
+
 ## Locations
 
 There are 4 security clearance levels:
@@ -702,8 +708,3 @@ Exploring each tile takes 10 mins.
 - Massive Clamps 7SP roll and succeed or be pinned.
 - Pile Bunker, can only be used on turn USD did not move, 10SP or 20SP to pinned target.
 - Laser array 7SP multi-attack (2) medium range
-
-#### New Frames
-
-##### AGLA Prime
-

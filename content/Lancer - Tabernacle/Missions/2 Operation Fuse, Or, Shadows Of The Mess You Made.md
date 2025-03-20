@@ -15,7 +15,7 @@ Musing over options to maximise their capabilities, they convince Velejo to help
 Assets available:
 
  - [[ENLIL Adherents#Lonnie Abel|LONNIE ABEL]], piloting the **Gob Knobbler** Goblin frame: None deployed
-- [[ENLIL Adherents#Gorn Tyburn|GORN TYBURN]], piloting the **Cold World** Vlad frame: +2 Heat cap modification
+- [[ENLIL Adherents#Gorn Tyburn|GORN TYBURN]], piloting the **Cruel World** Vlad frame: +2 Heat cap modification
 - [[ENLIL Adherents#Mi-Tenz|MI-TENZ]], piloting the **Feline Pain** Mourning Cloak frame: Control cuff (mech-activated controls can be activated at range using Ferrous Lash)
 - [[ENLIL Adherents#Yumai|YUMAI]], piloting the **Careless Whisper** Metalmark frame: Union-chartered IPS-N orbital dropship "IPS-N 2900 Coracle"
 - [[ENLIL Adherents#Autumn Fall|AUTUMN FALL]], piloting the **In Defence Of My Name** Balor frame: Alzabo public manifest with omail addresses (+personal weapon accuracy modification)
