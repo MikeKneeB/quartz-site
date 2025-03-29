@@ -686,19 +686,25 @@ Exploring each tile takes 10 mins.
 - Monomolecular blade
 - CACB Laser
 
+Can be looted for either one of the items it has, or 3 T5 Scrap.
+
 #### Medium Security Drone
 - 22 SP
 - Ion Cannon
 - Multi-function repair arm
 - Targeting Splice: when missile or targetter attacks ROLL on a success, retarget the attack onto a new target of the attack. On a partial, the attack misses.
 
+Can get an Ion Cannon or Multi-function repair arm, or 5 T5 Scrap.
+
 #### Heavy Security Drone
 - 34 SP
-- 2x Armour Plating
+- Armour Plating
 - Firewall
 - Scatter Field - The HSD and allies within close range take half damage from all sources outside of close range of the HSD
 - Plasma spear - Close range 6SP // Overheat // Burn 3 OR Medium range 4SP // Overheat // Burn 1
 - Nanofibre net launcher
+
+Can get any of its items or 7 T5 scrap.
 
 #### Ultra Security Drone
 - 64 SP
@@ -708,3 +714,5 @@ Exploring each tile takes 10 mins.
 - Massive Clamps 7SP roll and succeed or be pinned.
 - Pile Bunker, can only be used on turn USD did not move, 10SP or 20SP to pinned target.
 - Laser array 7SP multi-attack (2) medium range
+
+Can get any of its items or 12 T5 scrap.
