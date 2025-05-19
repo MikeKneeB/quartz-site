@@ -31,7 +31,7 @@ tags:
 > #### Chassis Rules
 >  - **Integrated Hover Locomotion System**
 > - **Integrated Prawn Sifter**
-> - **Tactical Support Field**: When an ally takes or deals damage the INRI prime can take a reaction to spend any amount of EP to reduce or increase the damage by the amount of EP spent respectively.
+> - **Tactical Support Field**: When an ally takes or deals damage within close range the INRI prime can take a reaction to spend any amount of EP to reduce or increase the damage by the amount of EP spent respectively.
 > - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
 
 
@@ -124,6 +124,7 @@ tags:
 > 
 > #### Chassis Rules
 >  - **Shattered Soul**: The ABRAXAS Prime Controls 5 ABRAX drones, which can move (but not take any actions) on the ABRAXAS' turn. Any hack or energy weapon the ABRAXAS is equipped with can be projected through the ABRAX drones. Any ongoing area effects are always projected from the ABRAX drones as well as the ABRAXAS. The ABRAX drones cannot move or be operated more than long range away from the ABRAXAS.
+> - **The Will of Many**: Whenever the ABRAXAS Prime is hit with an attack it can move up to 2 ABRAX drones 1 range band before the attack resolves.
 >  - **Integrated Hover Locomotion System**
 > - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
 > > [!chassis] ABRAX Drone

@@ -667,11 +667,52 @@ Exploring each tile takes 10 mins.
 - 3A: Stairs down to [[#12 Formulate Control]]
 - 3C: Power generator, broken, requires fixing.
 - 3E: Stairs down to [[#12 Formulate Control]]
+- 4C: Local engineering bay, requires power
 - 4D: Wrecked security drones in pile around base of column, inside the mound is a lure device.
 - 4E: Hole in ceiling leads up to [[#11.4 Main Processing Control]]
 - 5E: Stairs up to [[#11.5 South East Corridor]]
 
+
+##### Main Hall & Columns Events
+
+An event occurs on an 13+ when moving between tiles or columns. Stopping for an hour guarantees one of these events occurs.
+
+| Roll | |
+| --- | --- |
+| 20 | Four large meld behemoths, stalking through the factory floor |
+| 16-19 | Broken **INRI** prime being fixed by maintenance drone crew and second **INRI** prime |
+| 11-15 | Security drone sweep |
+| 6-10 | Electrical storm rolls between the broken factory machines, all mechs gain 1 heat and lose 2 SP |
+| 2-5 | Massive electrical storm rolls across, all mechs gain 2 heat, lose 2 SP and make a heat check |
+| 1 | Critical power surge, all mechs gain 2 heat, lose 4 SP, make a heat check and then gain 5 EP |
+
 ### 12 Formulate Control
+
+#### 12.1 West Entrance
+
+Large open hallway/staging area. Maintenance drones working at repairing huge door to east. That door is completely blocked until repaired or destroyed.
+
+- West to [[#11.10 Main Hall]]
+- South west to [[#8.8 Corridor]]
+- East to [[#12.2 Central Control]]
+
+#### 12.2 Central Control
+
+Central control housing a shard of **Venus Ascent**. The computer core is nestled within a set of large machine, pipes and tubing. There are a number of large formulate barrels inside.
+
+**Venus Ascent** is the main hall control overseer, and also the local formulate witch.
+
+She can control the 4 meld behemoths in her chamber.
+
+- West to [[#12.1 West Entrance]]
+- East to [[#12.3 East Entrance]]
+
+#### 12.3 East Entrance
+
+Large open hallway/staging area. Door west has a glowing security field over it, which will flash awaken **Venus Ascent**.
+
+- West to [[#12.2 Central Control]]
+- East to [[#11.10 Main Hall]]
 
 ### 13 Operations Control
 

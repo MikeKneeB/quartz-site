@@ -18,7 +18,7 @@ Pronouns: She/It
 
 # Utu/Xihe
 
-# Nanna
+# Nanna/Suen
 
 # An
 
