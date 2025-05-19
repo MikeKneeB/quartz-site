@@ -8,6 +8,21 @@ Within lurks a shard of the Exarch **Senex Bellator XΔ09**. The ancient mind tu
 
 Its emergence does not go unnoticed, the various eyes of an [[Invoke Arms]] orbital research station around Ash, and the [[Adamant Arch Planetary]] controlled blink-gate at the L1 point between Ash and the star Focis is mobilising as fast as possible.
 
+# Mission Report
+
+## 1
+- Flight up
+- Dock pad
+- Got access shard
+- Piece together what happened
+
+## 2
+- Explore some parts of the facility
+- Learn more of the truth
+- Hack in for maps
+- Go down to the security room
+- Attacked and fight off security drone
+
 # Adventure Setup
 
 This is intended as a mega-dungeon type area, with the crew making multiple forays into the Ignis L433 system, to probably find some way to stop, shut-down, or otherwise disable the waking of the shard of **Senex Bellator** the god-machine tyrant heart of the facility.
@@ -757,3 +772,15 @@ Can get any of its items or 7 T5 scrap.
 - Laser array 7SP multi-attack (2) medium range
 
 Can get any of its items or 12 T5 scrap.
+
+#### Maintenance Drone
+- 19 SP
+- Multi-function repair arm
+- Hover locomotion system
+- Fabrication bay
+- EM self-destruct
+- Capacitance bank
+- Articulated rigging arm
+
+Can get any of its items or 5 T5 scrap.
+

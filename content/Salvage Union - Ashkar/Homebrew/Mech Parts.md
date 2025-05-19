@@ -61,7 +61,7 @@ tags:
 > #### Chassis Rules
 > - **Eye of Heaven's Protector**: The first time each round the AGLA prime is attacked, if it has any melee weapons equipped it forces the attack to miss (regardless of any other rules that might cause the attack to hit).
 >  - **Release First Shackle**: At 41 or less SP the AGLA scores a 'Nailed-It' result on attack rolls on a 18-20.
-> - **Release Second Shackle**: At 20 or less SP the AGLA automatically succeeds on all heat checks. In addition it can move an additional range band every turn.
+> - **Release Second Shackle**: At 20 or less SP the AGLA automatically succeeds on all heat checks. In addition it can move an additional range band every turn, and any mechs or creatures within close range of the AGLA prime take 4SP damage when they start their turn.
 > - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
 
 > [!chassis]
@@ -87,7 +87,7 @@ tags:
 > #### Chassis Rules
 >  - **Advanced Blink Field**: As a reaction, after being attacked the NOX Prime can immediately move 1 range band as a teleport once per round. If this takes it out of range of the attack, the attack fails to land. In addition, on its turn the NOX Prime can teleport when it moves, and move up to two range bands when it does so.
 >  - **Shadow Profile**: Guided & Targeter weapons can't hit the NOX Prime.
->  - **Death of Kings**: Attacks made against unaware targets automatically hit.
+>  - **Death of Kings**: Attacks made against unaware targets automatically hit and count as if the Nox rolled a 20.
 > - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
 
 
@@ -144,7 +144,7 @@ tags:
 >
 > | SP | EP | HC | SyS | MoS | CC | TL | SV |
 > |---|---|---|---|---|---|---|---|
-> | 82 | 29 | 30 | 27 | 8 | 6 | A | 44 |
+> | 102 | 29 | 30 | 27 | 8 | 6 | A | 44 |
 > 
 > #### Chassis Rules
 > - **Divine Corpse**: Without the Deep Indigo Core module this frame loses X.
@@ -158,10 +158,11 @@ tags:
 >
 > | SP | EP | HC | SyS | MoS | CC | TL | SV |
 > |---|---|---|---|---|---|---|---|
-> | 37 | 30 | 16 | 21 | 9 | 6 | A | 19 |
+> | 39 | 30 | 16 | 21 | 9 | 6 | A | 19 |
 > 
 > #### Chassis Rules
 > - **Quick Study**: After the IPSOS is hit with any hacking system or action, roll. On a partial success, the hack has no effect. On a full success the hack has no effect and the IPSOS learns how to do this.
+> - **Integrated spider locomotion system**
 > - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
 
 
@@ -176,6 +177,35 @@ tags:
 > | 3 | 5 | 5 |
 >
 > `Range: Close // Damage: 3SP // Energy // Hot (1) // Overheat`
+
+> [!system]
+> ## Wreath Cannon
+> This wide barrelled cannon fires a glittering energy bolus. On a hit, immobilises the target. On their turn while immobilised they first take 3SP damage and they can then take an action to attempt to free themselves (if they have the means to do so) and 
+> 
+> ROLL THE DIE:
+> - 20: They free themselves and can regain 2EP as energy courses through their mech.
+> - 11-19: They free themselves.
+> - 6-10: Either take an additional 3SP and free themselves or remain immobile.
+> - 2-5: Remain immobile.
+> - 1: Remain immobile, and take an additional 3SP damage.
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | 5 | 6 | 5 |
+>
+> `Range: Medium // Damage: 3SP // Energy // Hot (1) // Overheat`
+
+> [!system]
+> ## Deadheart Pulse Rifle
+> This long barrelled energy sniper rifle is specifically designed to maximise damage at range, with the phased pulse beam gaining intensity through a series of additional blink-wormhole ancillary firings.
+>
+> At medium range deals an additional 8 SP damage, at long ranges deals an additional 18SP damage. 
+> 
+> | TL | Sl | SV |
+> |---|---|---|
+> | 5 | 7 | 7 |
+>
+> `Range: Long // Damage: 3SP // Energy // Hot (1) // Overheat`
 
 > [!system]
 > ## Penance Drive
@@ -205,6 +235,16 @@ tags:
 > `Range: Close // Damage: 5SP // Melee // Empowered // Wield`
 
 > [!system]
+> ## Perfect Key of Heaven Hammer
+> This huge hammer gains strength with attacks from linked weapons, glowing with might and readying for a huge blow. Each empowerment raises the damage of the next successful attack with this hammer by 3SP. Once the empowerment is used in this way it is consumed.
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | 5 | 8 | 8 |
+>
+> `Range: Close // Damage: 9SP // Melee // Empowered // Wield`
+
+> [!system]
 > ## Gate of Heaven Shield
 > This shimmering gold-embossed shield is designed to protect the wielder from melee attacks, and channel the energy from those hits into their own strikes. When your Mech or a target in Close Range is hit by a Melee Attack you may use your Armoured Shield to block the attack as a Reaction.  
 >
@@ -230,6 +270,16 @@ tags:
 > | 4 | 4 | 5 |
 >
 > `Range: Close // Damage: 3SP // Multi-attack (2) // Melee // Empowering`
+
+> [!system]
+> ## Perfected Tower of Heaven Swords
+> These paired shimmering sword systems flash with gold. Each time this weapon hits on an 11+ gain 1 empowerment. On a 'Nailed-It' attack roll gain 2 empowerment.
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | 5 | 6 | 5 |
+>
+> `Range: Close // Damage: 3SP // Multi-attack (3) // Ion // Melee // Empowering`
 
 > [!system]
 > ## ARX-Grav Disruptor
