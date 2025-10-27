@@ -10,11 +10,31 @@ Its emergence does not go unnoticed, the various eyes of an [[Invoke Arms]] orbi
 
 # Mission Report
 
-## 1
-- Flight up
-- Dock pad
-- Got access shard
-- Piece together what happened
+## Ascent & Descent
+
+In the weeks following their escape from the [[6 Opal Shore|Opal Shore]], the crew spend some time outfitting the **Long Goodbye** to their own specifications, and renaming it to the **Short Hello**. It's a flawless piece of subterfuge, and certainly no-one at Regalia Luxe will be able to put that together. 
+
+With a crew assembled from the citizens of [[The Vengeance Control Loophole]], and a copy of Hal loaded into the ship computer core, they are ready to break atmosphere.
+
+The trip up to the planet passes uneventfully, with the great planet of Ash slowly growing in the forward view screens. On approach, they are pinged for incoming transmission. An [[Invoke Arms]] research base is in high-orbit above the planet.
+
+[[The Vengeance Control Loophole#Wet Steve (he/him)|Steve]] jumps to the communicator and lies his ass off, convincing the Invoke Arms base that they are an Opus Institute science team on their way to conduct tests. This will slow IA down somewhat, but they'll definitely know something's up eventually as the facility rises from the planet.
+
+Nearing the facility proper, the crew spies a docking platform. It's severely damaged, but looks to be functional enough to land in so they do. Inside, they choose a docking bay with two other ships parked in it already. [[#1.5 Dock Bay D|Dock Bay D]] on the map.
+
+Disembarking, they look over the two ships. They're both clearly ancient, and built in a style that seems unusual, and faintly reminiscent of AGLA & co.s designs.
+
+Inspecting the first ship, which happens to be the **Hour Abhorrent**, they inspect the outside briefly before Jack decides to just plunge his sword right into it. Very luckily, he manages to avoid a catastrophic explosion being triggered, and superheated gas rushes out of the hole he's punctured - luckily harmlessly. Everyone breathes a sigh of relief[^1].
+
+The **Hour Abhorrent** is searched for stuff, and within they find a _Clearance Beta_ access shard. Turning their attention to the next ship, the **What Remains of I**, they (first checking it thoroughly) break in. Inside here, they find intact computers and other bits and pieces and decide to hunt around a little.
+
+There are the bones of the long-dead here, and the crew decides to try and work out how they died. [[The Vengeance Control Loophole#Laz0rbrn (they/them)|Laz0rbrn]] hacks into the ship's computer banks, they uncover security camera footage from the ship's exterior and interior. There's about 5000 years of absolutely nothing but slow decay and settling dust, but they scrub back to the "good stuff".
+
+On the interior tapes, it looks like the crew were acting basically normally, until they all hurried inside one day, and then didn't really seem to leave. The Vengeance Crew watches these three figures slowly die of starvation over a period of around 3 months. They note that, there appears to be a lot of heavy tremors or shaking of the ship through the first week or so, followed by a series of more long-lived but less violent tremors for a few weeks following that.
+
+On the exterior, the crew members can be seen rushing back to the ship, and the same tremors can be seen outside. They also notice that while there is a prominent day-night cycle on the exterior initially, over the course of a few weeks this dims until the exterior is always in darkness.
+
+From this, they conclude that something happened 5000 years ago that caused the facility to sink into the Gas Giant, which appeared to trap the human occupants of the **What Remains of I** and caused them to starve to death.
 
 ## 2
 - Explore some parts of the facility
@@ -784,3 +804,4 @@ Can get any of its items or 12 T5 scrap.
 
 Can get any of its items or 5 T5 scrap.
 
+[^1]: Especially me, they're usually so cautious - but I guess Jack was feeling stabby that day.
