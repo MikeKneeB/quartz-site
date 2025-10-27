@@ -4,11 +4,11 @@
 
 |Type|Terrestrial World|
 |---|---|
-|Orbital Radius|1.56 x 108 km   (1.04 AU)|
-|Period|8.52 x 103 hours   (0.97 earth years)|
+|Orbital Radius|1.56 x 108 km (1.04 AU)|
+|Period|8.52 x 103 hours (0.97 earth years)|
 |Physics|Large iron/silicate|
-|Radius|10259.74 km   (1.61 x earth)|
-|Gravity|18.00 m/s2   (1.84 x earth)|
+|Radius|10259.74 km (1.61 x earth)|
+|Gravity|18.00 m/s2 (1.84 x earth)|
 |Hydrosphere|0 % water, 11 % ice|
 |Atmosphere|Standard toxic|
 

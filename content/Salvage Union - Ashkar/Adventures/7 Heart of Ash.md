@@ -43,6 +43,89 @@ From this, they conclude that something happened 5000 years ago that caused the 
 - Go down to the security room
 - Attacked and fight off security drone
 
+## 3
+- Back up to home base
+- Big meld there
+- Out the airlock
+- Also old ships out the airlock
+- Down toward the manufactory
+
+## 4
+- Down to the Depot
+- Explore the abandoned rooms
+- Break through wall to active depot, avoiding security grid
+- There's meld here
+- Down
+
+## 5
+- Into the main processing hall
+- Corridor
+- Steve plants some mines
+- Continue round the north corridors, uneventfully
+
+## 6
+- Hear noises from the room to the south
+- Hack in to the terminal
+	- Activity in the long corridor
+	- Drones going wild south
+	- Turn them off
+	- Find the keycard on the pillar
+- Turn off the generator
+- Down south
+- Grab the keycard
+- Sight the NOX Prime
+- Steve tails
+- Ambush it
+- Core it
+
+## 7
+- Down to the main hall
+- Move up to the generator
+	- Past big drone pile
+- Repair the gen
+- Laz0rbrn explores the drone pile, finds drone lure
+- Everyone repairs as they want
+
+## 8
+- Hack into the generator for some knowledge
+	- Where's the power levels
+	- Where's the meld?
+	- What does our new security card open
+- Down to the Formulate control room
+	- Break through the wall, and into the icy chamber
+
+## 9
+- Fish came to life.
+- Salvagers know, no-one is truly lost.
+
+## 10
+- Back up to meet the supply drop
+- Met the mushroom man
+- Found some horrible statues
+- Crane arm controlled by next door
+
+## 11
+- Meet the Goliath Eye
+- Then back up to the crew
+- Down to 8
+- Found the stasis person
+
+## 12
+- Release Balirio
+- Chat with him
+- Down to the deep
+
+## 13
+- Fight!
+
+## 14
+- Fight continues?
+- Looting
+
+## 15
+- 
+
+
 # Adventure Setup
 
 This is intended as a mega-dungeon type area, with the crew making multiple forays into the Ignis L433 system, to probably find some way to stop, shut-down, or otherwise disable the waking of the shard of **Senex Bellator** the god-machine tyrant heart of the facility.
@@ -235,6 +318,8 @@ Storage room, requires _Clearance Beta_. Has 3 formulate containment caskets and
 #### 3.4 Formulate Storage
 Formulate containment caskets sit in this room. There is a lot of loose meld constructs in this room, they will wake pretty quickly after sensing movement.
 
+They were loosed not too long ago - due to power draw away from this room to help ascend the station out of the gas giant.
+
 #### 3.5 Corridor
 The corridor is lit with flashing red light. The west corridor wing is filled with translucent expanding foam, cutting off the hole in the wall at the end of that portion. The hole in the corridor has also revealed a service tunnel, which leads to any of the 4 rooms in this block. Getting to it would require clearing the expanding foam.
 
@@ -273,13 +358,15 @@ Human scale manufacturing operations room. Also contains a shard of **Goliath Ey
 
 The manufactury can be remote overridden by security subroutines, but the security controls might be overridden by a clever hack. **Goliath Eye** could switch the manufactury to start producing maintenance machines, and direct them. But it probably won't without some coercion.
 
+**Goliath Eye** needs to move to 5 because I drew it there in play.
+
 - West to [[#4.1 Main Manufacturing]]
 
 #### 4.3 Frame Constructor
 
 The Frame Constructor is a large portion of the manufactury that is used to assemble automata. It requires _Clearance Alpha_ to open.
 
-At security level 4 or more, the Frame Constructor has started work on **Deep Indigo**'s body. Outside a broken AGLA-Prime frame lies heavily on the ground, clearly very damaged.
+At security level 3 or more, the Frame Constructor has started work on **Deep Indigo**'s body. Outside a broken AGLA-Prime frame lies heavily on the ground, clearly very damaged.
 
 **Deep Indigo**'s body completes construction after 10 hours.
 
@@ -317,6 +404,8 @@ The Orrery is a device to link automata minds through to an Exarch Conclave. Cur
 The **IPSOS** is carrying a security _Clearance Gamma_.
 
 The Orrery is dormant, and requires the power plant in [[#11.10 Main Hall]] to be repaired before it can operate again.
+
+Gutted
 
 - West to [[#5.2 Orrery Main Chamber]]
 
@@ -428,7 +517,7 @@ The mind of **Silver Anode** sits here.
 
 #### 8.10 Sarcophagus Hall
 
-Set of huge sarcophagus plinths, containing automata primary minds. Protected by **ARARITA**.
+Set of huge sarcophagus plinths, containing automata primary minds. Protected by **Silver Anode**.
 
 - North to [[#8.9 Deep Core Weapons Hall]]
 - Stairs up to [[#8.8 Corridor]]
@@ -707,7 +796,6 @@ Exploring each tile takes 10 mins.
 - 4E: Hole in ceiling leads up to [[#11.4 Main Processing Control]]
 - 5E: Stairs up to [[#11.5 South East Corridor]]
 
-
 ##### Main Hall & Columns Events
 
 An event occurs on an 13+ when moving between tiles or columns. Stopping for an hour guarantees one of these events occurs.
@@ -787,8 +875,8 @@ Can get any of its items or 7 T5 scrap.
 - 3x Armour Plating
 - Aggressive Security subroutines (firewall w/ +d10)
 - LAMS
-- Massive Clamps 7SP roll and succeed or be pinned.
-- Pile Bunker, can only be used on turn USD did not move, 10SP or 20SP to pinned target.
+- Massive Clamps 7SP roll and succeed or be pinned. 6
+- Pile Bunker, can only be used on turn USD did not move, 10SP or 15SP to pinned target.
 - Laser array 7SP multi-attack (2) medium range
 
 Can get any of its items or 12 T5 scrap.

@@ -147,9 +147,25 @@ tags:
 > | 102 | 29 | 30 | 27 | 8 | 6 | A | 44 |
 > 
 > #### Chassis Rules
-> - **Divine Corpse**: Without the Deep Indigo Core module this frame loses X.
+> - **Divine Corpse**: Without the Deep Indigo Core module this frame must choose to have either Divine Strike or Divine Gaze active, with the other becoming inactive. Which ability is active can be changed during a week's long rest. In addition, Divine Image deals 2 damage instead of 5.
 > - **Divine Strike**: After hitting with a melee attack, the struck mech or creature cannot move until the end of its next turn.
 > - **Divine Gaze**: After hitting with a ranged attack, the struck mech or creature cannot see further than close range until the end of its next turn.
+> - **Divine Image**: When the Deep Indigo frame makes an attack roll, it always deals 5 SP damage to the target before making the attack, which cannot be reduced in any way and is dealt regardless of any other rules affecting the target (it does not trigger armour plating or similar rules, and does not destroy an armour-plating system). This does not trigger on auto-hit attacks or effects.
+> - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
+
+> [!chassis]
+> ## VENUS ASCENT
+> The body of Venus Ascent is a slender four legged mech, with a slim body. There are two arms at the top of the torso, a head with a large sensor array covering the entire face plate, and a collection of large wires stretching down from the back of the head like hair.
+>
+> | SP | EP | HC | SyS | MoS | CC | TL | SV |
+> |---|---|---|---|---|---|---|---|
+> | 65 | 24 | 24 | 22 | 8 | 6 | A | 32 |
+> 
+> #### Chassis Rules
+> - **Divine Corpse**: Without the Venus Ascent Core module this frame's Override Hex Tendrils & Equivalence Occlusion traits cost 4EP to activate as reactions.
+> 	- **Silverskin Enchantment**: Any attack that rolls a 'Nailed It' result against the Venus Ascent counts as a standard hit, in addition the frame regains 10 SP at the end of each of its turns.
+> - **Override Hex Tendrils**: After this mech is hit with a melee attack the mech making the attack must roll a full success or lose control of one system of the Venus Ascent's choice. They cannot use that system next turn, and the Venus Ascent can take a reaction once any time during that turn to activate that system as if it was a turn action the Venus Ascent was taking. This action does not benefit from any Frame Bonuses, systems, modules or pilot abilities of either mech. When targeting *wield* systems this system takes control of the system & whichever arm(s) it's held in simultaneously. The Venus Ascent can take this reaction even if it is unable to act otherwise (i.e. is controlled by another player).
+> - **Equivalence Occlusion**: After being hit with a hack, the mech hacking in must roll a full success or lose control of one module of the Venus Ascent's choice. They cannot use that module next turn, and the Venus Ascent can take a reaction once any time during that turn to activate that module as if it was a turn action the Venus Ascent was taking. This action does not benefit from any Frame Bonuses, systems, modules or pilot abilities of either mech. The Venus Ascent can take this reaction even if it is unable to act otherwise (i.e. is controlled by another player).
 > - **Eerie**: This mech moves unnervingly, looks freaky, and is bound to attract attention.
 
 > [!chassis]
@@ -205,7 +221,7 @@ tags:
 > |---|---|---|
 > | 5 | 7 | 7 |
 >
-> `Range: Long // Damage: 3SP // Energy // Hot (1) // Overheat`
+> `Range: Long // Damage: 3SP // Energy // Hot (3)`
 
 > [!system]
 > ## Penance Drive
@@ -302,6 +318,48 @@ tags:
 
 ^6ce189
 
+> [!system]
+> ## Mercury Leech Storm Harmoniser
+> Harnessed hegemonising formulate control field, creates a cloud of vicious glittering silver nanites that consume matter. Assimilated material is brought back to the controlling entity for immediate incorporation. Known to enemies of the Argent Republic as "death mist".
+>
+> This system can be activated as a free action, while it is active it consumes 1 EP at the end of your turn. While active; at the end of your turn every creature or mech of your choice within close range takes 2SP damage, and for each creature or mech damaged this way restore your mech's SP by 1. The system can be deactivated as a free action on any subsequent turn.
+>
+> In addition, while active you can use the **Quicken Storm** action
+>
+>> ### Quicken Storm
+>> `2EP // Turn Action // Range: Close`
+>>
+>> Let out a burst of high-energy mercury leech particulate, all creatures or mechs of your choice within close range must
+>>
+>> ROLL THE DIE:  
+>> - 20: Take no additional damage.
+>> - 11 - 19: Take 2SP damage, with the originator healing 1SP.
+>> - 6 - 10: Take 4SP damage, with the originator healing 2SP or gain 3 heat to half this effect.
+>> - 2 - 5: Take 4SP damage, with the originator healing 2SP.
+>> - 1: Take 6SP damage, with the originator healing 3SP.
+>
+>Note, this system and the **Quicken Storm** action do not count as "restoring structure points" for the purposes of any other rules (e.g. the Engineer's "Union Engineer" ability).
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | 6 | 6 | 6 |
+>
+> `1EP // Free Action // Range: Close`
+
+> [!system]
+> ## Formulate Summoning Spire
+> Quickening formulate spire, flash heats and activates formulate, siphoning raw material to the central chamber for consumption as raw material.
+>
+> This system can be activated to create a single meld construct, to do so the system must consume the equivalent of the meld construct's SP in tech 3 scrap. Tech 4 or higher scrap can also be consumed, with each level of tech higher being worth double the previous. No refunds are given.
+>
+> After activating this system, the mech that did so may activate an attached Formulate Control Sigil as a reaction.
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | 6 | 5 | 5 |
+>
+> `Turn Action`
+
 # Modules
 
 > [!module]
@@ -326,7 +384,7 @@ tags:
 > |---|---|---|
 > | 6 | 1 | 1 |
 >
-> `Hot (3) // Heatspike`
+> `Passive`
 
 > [!module]
 > ## Duplexer Control System
@@ -358,6 +416,56 @@ tags:
 > | A | 1 | ? |
 >
 > `Passive`
+
+> [!module]
+> ## Red Hand/Yellow Hand
+>
+> Type three sub-sentient tunnel worm, what it lacks in fine control it makes up for in a kind of vicious cunning, borne of an aggressive high-punish, high-reward evolve routine the worm is run through immediately before insertion into the target system. Every RHYH routine is slightly different, but all brutal and hard to detect.
+>
+> When activated, choose a target Mech within range and afflict them with the Red Hand/Yellow Hand protocol.
+>
+> While under the effect of the Red Hand/Yellow Hand protocol at the start of its turn the affected mech must:
+>
+> ROLL THE DIE
+> - 20: They can act normally
+> - 11 - 19: The red hand activates causing their reactor to go into an unstable feedback loop, they suffer the effect of *overheat* and can only move this turn if they gain 3 heat and make a heat check (ignoring *overheat* for this choice).
+> - 2 - 10: The yellow hand activates causing their internal computer to go haywire, they suffer the effect of *ion* and can only take a turn action this turn if they spend 2EP (ignoring *ion* for this choice).
+> - 1: They suffer both Red Hand/Yellow Hand effects listed for 11-19 and 2-10 above.
+>
+> The Red Hand/Yellow Hand protocol can be cleared by rolling a full success as a turn action, or by fully shutting down and rebooting the affected mech.
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | A | 1 | ? |
+>
+> `Turn Action // Range: Medium // Hacking`
+
+> [!module]
+> ## Looped Simile
+> The Looped Simile is a trojan comms subverter, that allows for successfully inserted hacks to re-upload themselves to additional nearby targets.
+>
+> Can be activated as a reaction after any successful hack to proliferate the hack to other nearby targets. The hack counts as originating from the original target, and the original target must have a communicator module attached for this to be successful.
+> 
+> There is no limit to the number of times this reaction can be taken, but it costs 2EP, plus an additional 2EP more for each subsequent usage of this reaction, in addition to the hack's original cost.
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | 6 | 2 | 6 |
+>
+> `Reaction // Hacking`
+
+> [!module]
+> ## Formulate Control Sigil
+> Control surface for augmenting and subverting the formulate latent pattern. To bend it to one's own will.
+>
+> Can be activated as a turn action to gain control of any number of meld creatures for ten minutes, paying EP equal to half the remaining SP of the meld creatures targeted (rounding down).
+>
+> | TL | Sl | SV |
+> |---|---|---|
+> | 6 | 1 | 8 |
+>
+> `Turn Action // Range: Medium // Hacking`
+
 
 # New Keywords
 - Empowering: Each time you gain an empowerment add it to your empowerment tally total. Whenever you hit with a weapon attack, you may consume your empowerment to increase the damage dealt by half that amount (rounding up), and set your empowerment tally back to 0.
