@@ -123,6 +123,9 @@ From this, they conclude that something happened 5000 years ago that caused the 
 - Looting
 
 ## 15
+- To the Foundry
+
+## 16
 - 
 
 
@@ -677,7 +680,7 @@ The deepest elevator core is on full bolt lockdown. The elevator will go no furt
 
 #### 10.10 Deep Core North
 
-The north deep core room is guarded by a wounded ???
+The north deep core room is guarded by a wounded AGLA Prime.
 
 - West to [[#10.11 Deep Core West]]
 - South to [[#10.9 Deepest Core]]
@@ -876,7 +879,7 @@ Can get any of its items or 7 T5 scrap.
 - Aggressive Security subroutines (firewall w/ +d10)
 - LAMS
 - Massive Clamps 7SP roll and succeed or be pinned. 6
-- Pile Bunker, can only be used on turn USD did not move, 10SP or 15SP to pinned target.
+- Pile Bunker, can only be used on turn USD did not move, 10SP or 15SP to pinned target. T5 /13/7
 - Laser array 7SP multi-attack (2) medium range
 
 Can get any of its items or 12 T5 scrap.
@@ -891,5 +894,49 @@ Can get any of its items or 12 T5 scrap.
 - Articulated rigging arm
 
 Can get any of its items or 5 T5 scrap.
+
+#### Senex Bellator
+
+200 SP
+- War of Silver Rain Veteran: Senex Bellator cannot be killed using the **deadly** trait. Hits triggering **deadly** deal an additional x1 damage instead (e.g. instead of x2, x3 or instead of x4, x5).
+- Will of Iron: Senex Bellator cannot be controlled by anything but his own mind.
+- Start of round:
+	- Lay mines in 1 band (outer, middle, inner)
+	- <150SP and Target inner or middle band for laser volley (middle, inner, outer)
+	- <50SP and lay mines in an additional band (inner, -, outer)
+- Takes 3 turns every round
+	1. Eye of Justice: Choose target & launch void missile
+	2. Judge the Ungrateful: Make 2 Laser Lance attacks - range long, damage 7SP or 10SP to targets in close range.
+	3. Final turn, always at end of round:
+		- Assertion Tribunal: clear all hostile effects inflicted on Senex or Orbitals
+		- Death Tribunal: deal 5SP damage to all hostiles
+		- Summon Orbital: At the end of the next round, summon a chain or phase orbital (only if 0 orbitals). Or <100 - summon Negation Orbital once per game.
+- Mines : Deal 20 Void Damage to anyone in square with mines, 1SP health, hitting any mine triggers all of them in the area. Counts as drones.
+- Void missile:
+	- Move 1 after each player turn
+	- Deal 20 Void Damage to everything in square if a player turn ends while it is in the same space as the target
+	- 1SP health
+	- Detonates dealing 3 Void Damage to everything in space if destroyed.
+	- Counts as drones.
+
+Negation Orbital - 1SP
+- Cannot be damaged except by void-munitions
+- While it hovers around Senex Bellator, all damage dealt to Senex Bellator is halved, and all additional affects of attacks.
+- Move 1 
+- Counts as a Mech
+
+Chain Orbital - 40SP
+- Takes double damage from void-munitions
+- Move 2
+- Attack - Adhere to The Letter: 6SP damage, and immobilise with chains, targettable with 5SP health.
+- Counts as a Mech
+
+Phase Orbital - 25SP
+- Takes double damage from void-munitions
+- Move 2
+- Hacks:
+	- Enforce Order: Choose two targets: roll and succeed or move 1 space of phase orbital choice, on partial take 7SP **or** move. 
+	- Burn Down Idol: Choose two targets: if hit by this hack, take 2 heat on move, until taking a turn action to clear.
+	- Firewall
 
 [^1]: Especially me, they're usually so cautious - but I guess Jack was feeling stabby that day.
