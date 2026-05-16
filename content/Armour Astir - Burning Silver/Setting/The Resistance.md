@@ -13,7 +13,7 @@ Within the council chambers, however, the air is heavy with a storm of ideologic
 
 # The Free Duchies of Nald
 
-A relic of the old world, a place of rich tradition and entrenched social stratification. The Free Duchies of Nald are a union of 7 individual nation/city-states aligned by their proximity within the Spine Mountains, and their ongoing war with the Dragon Empire.
+A relic of the old world, a place of rich tradition and entrenched social stratification. The Free Duchies of Nald are a league of 7 individual nation/city-states aligned by their proximity within the Spine Mountains, and their ongoing war with the Dragon Empire.
 
 The land of the duchies themselves is protected by an ancient warding ritual called The Vow, which all the members states of the Duchies maintain through the contributions of trained channelers of their lineage. Traditionally, this duty falls to the first child of the ruling family, who are always trained in the magical arts.
 
@@ -24,7 +24,7 @@ The area around Nald is contested, and has been a site of ongoing war for almost
 - A magical warding ritual called The Vow has protected the Free Duchies of Nald from conquest by the Empire, and they have been fighting to keep their outer holdings for 150 years.
 - They have rich natural resource deposits, including both a large quantity of readily accessibly formulate.
 - The cities of Nald are carved deep into the earth, and the traditional vocations and culture of the cities are mining and carving. They eat mushrooms, and farm large termite-like insects deep underground.
-- The Free Duchies of Nald have a deep-seated grudge with The Protection Guild, as they have been at war with their forces primarily over the long years.
+- The Free Duchies of Nald have a deep-seated grudge with [[The Argent Court#The Protection Guild|The Protection Guild]], as they have been at war with their forces primarily over the long years.
 - A culture of magical learning pervades the cities, with each noble house keen to produce an eldest scion of exceptional talent, to contribute to both the upkeep of The Vow and their dukedom's standing within the union.
 - They provide a great deal of material support to The Resistance, along with some dedicated and powerful channelers.
 - Values:
@@ -39,7 +39,7 @@ The area around Nald is contested, and has been a site of ongoing war for almost
 
 # Quake
 
-Quake are a group of eco-fighters who have grown over the past 80 years or so. As the wasteland grew out from the seat of the Argent Court and the wheels of the Grand Unified Mining Concern rolled out over the land, the many displaced peoples were forced into new lives into the grimy cities of the new Empire.
+Quake are a group of eco-fighters who have grown in strength and daring over the past 80 years or so. As the wasteland grew out from the seat of the Argent Court and the wheels of the Grand Unified Mining Concern rolled out over the land, the many displaced peoples were forced into new lives within the grimy cities of the new Empire.
 
 But the old lore remembers a time where the great, deep forests of the west spanned for leagues upon leagues. It remembers the great old gods of the forests, the venerable trees and the sheltered glades.
 
