@@ -27,6 +27,7 @@ The area around Nald is contested, and has been a site of ongoing war for almost
 - The Free Duchies of Nald have a deep-seated grudge with [[The Argent Court#The Protection Guild|The Protection Guild]], as they have been at war with their forces primarily over the long years.
 - A culture of magical learning pervades the cities, with each noble house keen to produce an eldest scion of exceptional talent, to contribute to both the upkeep of The Vow and their dukedom's standing within the union.
 - They provide a great deal of material support to The Resistance, along with some dedicated and powerful channelers.
+- The Duchies combined military is organised into individual generalist Sodalities - made up of a number of specialised Coteries. Sodalities and Coteries are typically made up of members from multiple cities.
 - Values:
 	- Their sovereignty.
 	- Their tradition.
@@ -140,5 +141,5 @@ Now running a bloody campaign of piracy against the powers of the Dragon Empire 
 - They are:
 	- Disliked by the [[#Fallen Dragons]] for being base criminals and thieves.
 	- Disliked by the [[#The Free Duchies of Nald|Duchies]] for being base criminals and thieves (and having poor manners).
-	- Liked by **Quake** for their disruptive actions against the Mining Concern.
+	- Liked by [[#Quake]] for their disruptive actions against the Mining Concern.
 - Their _type_ is Bandits.
