@@ -88,6 +88,14 @@ and essential for the Dragon Empire's control of eastern Karral.
   - The glorious Argent Court.
   - The unification and control of the people of Karral.
 
+### Actors & Assets
+
+- Ordo Militant Marshal Felicity (Main: Duty-bound, stiff, unforgiving)
+  - A dedicated commander from the Ordo Militant, she pilots the Holy Purpose III.
+  - She commands the blessed fortress Faultless Fury V.
+  - During talks with Lavinia of the Fallen Dragons, she has shown that while her faith
+    is strong, her conviction for the duties thrust upon her may waver.
+
 ## The Grand Unified Mining Concern
 
 The Grand Unified Mining Concern is the largest of the new state corporations, its
@@ -138,6 +146,14 @@ to the Argent Courts control over the populace.
   - The unstoppable march of progress.
   - Wealth and resources.
 
+### Actors & Assets
+
+- The mining operations based out of the town of New Volt.
+  - Includes a mine near the [[#The Protection Guild]] fortress Farsight Outpost.
+- Director Timson (Main: sleazy, underhanded, in it for himself)
+  - head of extraction at New Volt.
+  - Career mine boss.
+
 ## The Protection Guild
 
 The ears of the Protection Guild are always watching, and the dark blue uniforms of their
@@ -182,4 +198,14 @@ Empire's rule, and the execution of hundreds of dissident cells.
   - Silencing dissent.
   - Uncompromising violence against deserters, dissidents, traitors, and the outsiders of
     the Empire.
+
+### Actors & Assets
+
+- Farsight Outpost, the fortress in a crevasse protected by the Javelin Engine, main
+    staging ground for the north-west front in the war against [[The Resistance#The Free
+    Duchies of Nald#the Free Duchies]].
+- Victor Ravenseye (Main: posh, flying by the seat of his pants, occasional flash of
+  brilliance)
+  - One of the military officers engaged on the front-lines of the war against the
+    duchies.
 
