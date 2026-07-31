@@ -10,6 +10,8 @@ often painted in greens and browns. They tend to be ARCANE (drawing on the power
 formulate), MUNDANE (drawing on the power of gunpowder and sharp edges), and rarely
 ELEMENTAL (drawing on the power of the earth).
 
+Type names: \[-ence/-ance word\] Pattern
+
 - GUMC Security personnel (Extra: brutal) (ARCANE)
   - Arc-baton (melee) I
   - _Ardent_: Compliance Pattern II
@@ -79,14 +81,37 @@ ELEMENTAL (drawing on the power of the earth).
 # Protection Guild
 
 The Protection Guild Ardents & Astirs tend to be sleek, with fluted rounded armour
-plating, painted black. They tend to be PROFANE or ARCANE and occasionally DIVINE or
-ELEMENTAL (water).
+plating, painted black. They tend to be PROFANE or ELEMENTAL (water) and occasionally
+DIVINE.
 
 # Silver Church
 
 The Silver Church Ardents & Astirs tend to have very flowing, almost flame-like armour
 plating. They are richly adorned, and very often have a cape or a helmet plume. They tend
 to be DIVINE or ELEMENTAL (fire), and occasionally harness the ARCANE.
+
+Type names: \[power symbol object\] Class E.g. Throne,
+
+- Warrior Acolyte (Extra: faithful) (DIVINE)
+  - Dragon-blessed mace (melee / bane) I
+  - _Ardent_: Sceptre Class II
+    - Always Has:
+      - Retribution of the dragons: After receiving a danger from any actor, that actor
+        acts in desperation against the Sceptre.
+    - Loadout: Antecedent
+      - Great Spear (melee / anti-charge)
+      - Holy Rifle (ranged / guided)
+- Dragon Acolyte (Extra: fervent) (ELEMENTAL)
+  - Fire pike (melee / burning) I
+  - _Ardent_: Robe Class II
+    - Always Has:
+      - Fury of the dragons: After this ardent inflicts a danger to any actor, that actor
+        acts in desperation next time it rolls.
+    - Loadout: Torch
+      - Great fire-pike (melee / area, bane)
+    - Loadout: Breacher
+      - Blazing axe (melee / bane)
+      - Breacher shield (defensive)
 
 # Resistance
 
