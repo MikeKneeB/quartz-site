@@ -84,6 +84,40 @@ The Protection Guild Ardents & Astirs tend to be sleek, with fluted rounded armo
 plating, painted black. They tend to be PROFANE or ELEMENTAL (water) and occasionally
 DIVINE.
 
+- Protection Guild Operative (Extra: sneaky) PROFANE
+  - Silent death-hex (ranged / silent) I
+  - _Ardent_: Kopesh Category III
+    - Always has:
+      - Blink drive - can teleport
+    - Loadout: assassin
+      - Dual curved swords (melee)
+      - Binding rituals (restraining)
+    - Loadout: sniper
+      - Death's eye bow (sniper / set-up, guided, bane)
+      - Ice knives (ranged / defensive) ELEMENTAL
+
+- Protection Guild Heavy (Extra: brutal) ELEMENTAL
+  - Tower shield & pike (melee / defensive) I
+  - _Ardent_: Claymore Category III
+    - Always has:
+      - Wave drive - once per scene can push or pull someone away or toward them, forcing
+        them to `weather the storm` or be moved and take disadvantage on their next
+        action
+    - Loadout: Enforcer
+      - Greatsword & tower shield (melee / area, defensive, ward)
+    - Loadout: Cannoneer
+      - Tsunami cannon (ranged / reload, area) - if you fail or partially succeed a roll
+        against an ardent armed with this weapon, it can choose to push you away
+
+- Protection Guild Fast Attack Squad II (Extra: savage) PROFANE
+  - Razor knives (melee / bane)
+  - Always has:
+    - Squad tactics - operate as a squad
+    - Jump jets (blitz) - Can fly short distances.
+  - Loadout: Spotters
+    - Target acquisition rituals - once per scene can upgrade a risk an ally applies to a
+      peril.
+
 # Silver Church
 
 The Silver Church Ardents & Astirs tend to have very flowing, almost flame-like armour
